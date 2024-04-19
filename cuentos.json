@@ -5,40 +5,46 @@
         "categoria": "Aventura",
         "tipos": ["Inicio", "Desarrollo", "Clímax", "Cierre"],
         "cuentos": [
-          {
-            "secciones": {
-              "Inicio": ["En un reino lejano, un héroe se embarca en un viaje épico..."],
-              "Desarrollo": ["Enfrenta desafíos inesperados y encuentra aliados invaluables..."],
-              "Clímax": ["Descubre un antiguo secreto que cambiará su destino..."],
+         {
+          "secciones": [
+            {
+              "id": 1,
+              "Inicio": ["En un reino lejano, un héroe se embarca en un viaje épico..."]
+            },
+            {
+              "id": 2,
+              "Desarrollo": ["Enfrenta desafíos inesperados y encuentra aliados invaluables..."]
+            },
+            {
+              "id": 3,
+              "Clímax": ["Descubre un antiguo secreto que cambiará su destino..."]
+            },
+            {
+              "id": 4,
               "Cierre": ["Se enfrenta a un enemigo formidable en la batalla final...", "Regresa a casa como un héroe, pero el viaje nunca termina..."]
             }
-          },
-          {
-            "secciones": {
-              "Inicio": ["En tierras desconocidas, un aventurero comienza su búsqueda..."],
-              "Desarrollo": ["Se encuentra con criaturas mágicas y desafíos imprevistos..."],
-              "Clímax": ["Descubre un artefacto antiguo que podría cambiar el curso de la historia..."],
-              "Cierre": ["Se despide de sus nuevos amigos y continúa hacia el horizonte..."]
+          ]
+        },
+           {
+          "secciones": [
+            {
+              "id": 1,
+              "Inicio": ["En un reino lejano, un héroe se embarca en un viaje épico..."]
+            },
+            {
+              "id": 2,
+              "Desarrollo": ["Enfrenta desafíos inesperados y encuentra aliados invaluables..."]
+            },
+            {
+              "id": 3,
+              "Clímax": ["Descubre un antiguo secreto que cambiará su destino..."]
+            },
+            {
+              "id": 4,
+              "Cierre": ["Se enfrenta a un enemigo formidable en la batalla final...", "Regresa a casa como un héroe, pero el viaje nunca termina..."]
             }
-          },
-          {
-            "secciones": {
-              "Inicio": [
-                "En las vastas llanuras de un mundo olvidado, un joven aventurero emprende un viaje lleno de misterios..."
-              ],
-              "Desarrollo": [
-                "Se topa con ruinas ancestrales y descubre inscripciones que hablan de un tesoro perdido.",
-                "En su búsqueda, encuentra compañeros de viaje que comparten su deseo de aventura."
-              ],
-              "Clímax": [
-                "Tras superar desafíos traicioneros, llega a una isla misteriosa donde se rumorea que se encuentra el tesoro.",
-                "Allí, enfrenta a guardianes mágicos que protegen el camino hacia la recompensa deseada."
-              ],
-              "Cierre": [
-                "Después de una épica batalla, el aventurero alcanza el tesoro, pero descubre que la verdadera riqueza está en la experiencia y amistad ganadas durante el viaje.",
-                "Regresa a casa con tesoros materiales y recuerdos invaluables, listo para la siguiente gran aventura."
-              ]
-            }
+          ]
+        }
           }
         ]
       },
