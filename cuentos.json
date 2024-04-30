@@ -1,107 +1,89 @@
-
 {
-    "cuentos": [
-      {
-        "categoria": "Aventura",
-        "tipos": ["Inicio", "Desarrollo", "Clímax", "Cierre"],
-        "cuentos": [
-          {
-            "secciones": {
-              "Inicio": ["En un reino lejano, un héroe se embarca en un viaje épico..."],
-              "Desarrollo": ["Enfrenta desafíos inesperados y encuentra aliados invaluables..."],
-              "Clímax": ["Descubre un antiguo secreto que cambiará su destino..."],
-              "Cierre": ["Se enfrenta a un enemigo formidable en la batalla final...", "Regresa a casa como un héroe, pero el viaje nunca termina..."]
-            }
-          },
-          {
-            "secciones": {
-              "Inicio": ["En tierras desconocidas, un aventurero comienza su búsqueda..."],
-              "Desarrollo": ["Se encuentra con criaturas mágicas y desafíos imprevistos..."],
-              "Clímax": ["Descubre un artefacto antiguo que podría cambiar el curso de la historia..."],
-              "Cierre": ["Se despide de sus nuevos amigos y continúa hacia el horizonte..."]
-            }
-          },
-          {
-            "secciones": {
-              "Inicio": [
-                "En las vastas llanuras de un mundo olvidado, un joven aventurero emprende un viaje lleno de misterios..."
-              ],
-              "Desarrollo": [
-                "Se topa con ruinas ancestrales y descubre inscripciones que hablan de un tesoro perdido.",
-                "En su búsqueda, encuentra compañeros de viaje que comparten su deseo de aventura."
-              ],
-              "Clímax": [
-                "Tras superar desafíos traicioneros, llega a una isla misteriosa donde se rumorea que se encuentra el tesoro.",
-                "Allí, enfrenta a guardianes mágicos que protegen el camino hacia la recompensa deseada."
-              ],
-              "Cierre": [
-                "Después de una épica batalla, el aventurero alcanza el tesoro, pero descubre que la verdadera riqueza está en la experiencia y amistad ganadas durante el viaje.",
-                "Regresa a casa con tesoros materiales y recuerdos invaluables, listo para la siguiente gran aventura."
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "categoria": "Fantasía",
-        "tipos": ["Inicio", "Desarrollo", "Clímax", "Cierre"],
-        "cuentos": [
-          {
-            "secciones": {
-              "Inicio": ["En el misterioso bosque encantado, donde los árboles susurran secretos..."],
-              "Desarrollo": ["Un portal mágico se abre, revelando un mundo de maravillas..."],
-              "Clímax": ["Criaturas mágicas se convierten en aliados inesperados..."],
-              "Cierre": ["Confrontación con la oscuridad que amenaza con destruir la magia...", "La paz se restaura y la magia perdura en el bosque encantado..."]
-            }
-          },
-          {
-            "secciones": {
-              "Inicio": ["En un reino de dragones y hechicería, una princesa comienza su viaje..."],
-              "Desarrollo": ["Se encuentra con seres mitológicos y descubre su destino épico..."],
-              "Clímax": ["Una batalla feroz contra las fuerzas del mal desata el poder interior de la princesa..."],
-              "Cierre": ["La princesa asume su papel como líder y guía a su reino hacia la prosperidad..."]
-            }
-          },
-          {
-            "secciones": {
-              "Inicio": [
-                "En un mundo donde las estrellas son puertas a otros reinos, una joven hechicera inicia su viaje hacia lo desconocido..."
-              ],
-              "Desarrollo": [
-                "Descubre antiguos grimorios que revelan la existencia de un portal estelar olvidado.",
-                "Con la ayuda de seres mágicos, aprende a abrir el portal y se adentra en un reino de maravillas."
-              ],
-              "Clímax": [
-                "En este reino, se encuentra con seres míticos que buscan su guía para enfrentar una amenaza oscura.  La hechicera se embarca en una misión épica para reunir artefactos mágicos y fortalecer su poder."
-              ],
-              "Cierre": [
-                "En la batalla final, desata su magia en una explosión de luz, derrotando a la oscuridad y restaurando la paz en los reinos estelares.",
-                "Convertida en guardiana de los portales, la joven hechicera regresa a su mundo con la gratitud de los seres mágicos y la sabiduría de la fantasía."
-              ]
-            }
-          },
-          {
-            "secciones": {
-              "Inicio": [
-                "En una isla perdida en medio del océano, un intrépido explorador comienza su expedición hacia lo desconocido..."
-              ],
-              "Desarrollo": [
-                "Descubre un antiguo mapa que señala la ubicación de un tesoro legendario, oculto en las profundidades de la isla.",
-                "En su búsqueda, enfrenta desafíos naturales, como selvas impenetrables y ríos turbulentos, que ponen a prueba su valentía y habilidades de supervivencia."
-              ],
-              "Clímax": [
-                "Llega a una antigua pirámide donde el tesoro está resguardado por trampas mortales y guardianes misteriosos.",
-                "Con ingenio y coraje, supera los desafíos, desentrañando los secretos de la pirámide para llegar al corazón del tesoro."
-              ],
-              "Cierre": [
-                "Regresa a casa como un héroe, cargado con tesoros invaluables y experiencias extraordinarias.",
-                "Aunque la expedición ha concluido, el explorador sabe que siempre habrá nuevas aventuras esperando en el horizonte."
-              ]
-            }
-          }
-        ]
-      }
-     
-    ]
-  }
-  
+  "cuentos": [
+    {
+      "categoria": "Aventura",
+      "tipos": [
+        {
+          "tipo": "Inicio",
+          "secciones": [
+            { "id": 1, "contenido": "En un reino lejano, un héroe se embarca en un viaje épico..." },
+            { "id": 2, "contenido": "En tierras desconocidas, un aventurero comienza su búsqueda..." },
+            { "id": 3, "contenido": "En las vastas llanuras de un mundo olvidado, un joven aventurero emprende un viaje lleno de misterios..." }
+          ]
+        },
+        {
+          "tipo": "Desarrollo",
+          "secciones": [
+            { "id": 4, "contenido": "Enfrenta desafíos inesperados y encuentra aliados invaluables..." },
+            { "id": 5, "contenido": "Se encuentra con criaturas mágicas y desafíos imprevistos..." },
+            { "id": 6, "contenido": "Se topa con ruinas ancestrales y descubre inscripciones que hablan de un tesoro perdido." },
+            { "id": 7, "contenido": "En su búsqueda, encuentra compañeros de viaje que comparten su deseo de aventura." }
+          ]
+        },
+        {
+          "tipo": "Clímax",
+          "secciones": [
+            { "id": 8, "contenido": "Descubre un antiguo secreto que cambiará su destino..." },
+            { "id": 9, "contenido": "Descubre un artefacto antiguo que podría cambiar el curso de la historia..." },
+            { "id": 10, "contenido": "Tras superar desafíos traicioneros, llega a una isla misteriosa donde se rumorea que se encuentra el tesoro." },
+            { "id": 11, "contenido": "Allí, enfrenta a guardianes mágicos que protegen el camino hacia la recompensa deseada." }
+          ]
+        },
+        {
+          "tipo": "Cierre",
+          "secciones": [
+            { "id": 12, "contenido": "Se enfrenta a un enemigo formidable en la batalla final..." },
+            { "id": 13, "contenido": "Regresa a casa como un héroe, pero el viaje nunca termina..." },
+            { "id": 14, "contenido": "Se despide de sus nuevos amigos y continúa hacia el horizonte..." },
+            { "id": 15, "contenido": "Después de una épica batalla, el aventurero alcanza el tesoro, pero descubre que la verdadera riqueza está en la experiencia y amistad ganadas durante el viaje." },
+            { "id": 16, "contenido": "Regresa a casa con tesoros materiales y recuerdos invaluables, listo para la siguiente gran aventura." }
+          ]
+        }
+      ]
+    },
+    {
+      "categoria": "Fantasía",
+      "tipos": [
+        {
+          "tipo": "Inicio",
+          "secciones": [
+            { "id": 17, "contenido": "En el misterioso bosque encantado, donde los árboles susurran secretos..." },
+            { "id": 18, "contenido": "En un reino de dragones y hechicería, una princesa comienza su viaje..." },
+            { "id": 19, "contenido": "En un mundo donde las estrellas son puertas a otros reinos, una joven hechicera inicia su viaje hacia lo desconocido..." },
+            { "id": 20, "contenido": "En una isla perdida en medio del océano, un intrépido explorador comienza su expedición hacia lo desconocido..." }
+          ]
+        },
+        {
+          "tipo": "Desarrollo",
+          "secciones": [
+            { "id": 21, "contenido": "Un portal mágico se abre, revelando un mundo de maravillas..." },
+            { "id": 22, "contenido": "Se encuentra con seres mitológicos y descubre su destino épico..." },
+            { "id": 23, "contenido": "Descubre antiguos grimorios que revelan la existencia de un portal estelar olvidado." },
+            { "id": 24, "contenido": "Descubre un antiguo mapa que señala la ubicación de un tesoro legendario, oculto en las profundidades de la isla." }
+          ]
+        },
+        {
+          "tipo": "Clímax",
+          "secciones": [
+            { "id": 25, "contenido": "Criaturas mágicas se convierten en aliados inesperados..." },
+            { "id": 26, "contenido": "Una batalla feroz contra las fuerzas del mal desata el poder interior de la princesa..." },
+            { "id": 27, "contenido": "En este reino, se encuentra con seres míticos que buscan su guía para enfrentar una amenaza oscura.  La hechicera se embarca en una misión épica para reunir artefactos mágicos y fortalecer su poder." },
+            { "id": 28, "contenido": "Llega a una antigua pirámide donde el tesoro está resguardado por trampas mortales y guardianes misteriosos." }
+          ]
+        },
+        {
+          "tipo": "Cierre",
+          "secciones": [
+            { "id": 29, "contenido": "Confrontación con la oscuridad que amenaza con destruir la magia..." },
+            { "id": 30, "contenido": "La paz se restaura y la magia perdura en el bosque encantado..." },
+            { "id": 31, "contenido": "La princesa asume su papel como líder y guía a su reino hacia la prosperidad..." },
+            { "id": 32, "contenido": "En la batalla final, desata su magia en una explosión de luz, derrotando a la oscuridad y restaurando la paz en los reinos estelares." },
+            { "id": 33, "contenido": "Convertida en guardiana de los portales, la joven hechicera regresa a su mundo con la gratitud de los seres mágicos y la sabiduría de la fantasía." },
+            { "id": 34, "contenido": "Regresa a casa como un héroe, cargado con tesoros invaluables y experiencias extraordinarias." },
+            { "id": 35, "contenido": "Aunque la expedición ha concluido, el explorador sabe que siempre habrá nuevas aventuras esperando en el horizonte." }
+          ]
+        }
+      ]
+    }
+  ]
+}
