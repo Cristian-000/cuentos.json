@@ -334,7 +334,80 @@
       ]
     }
   ]
+},{
+  "categoria": "Ciencia Ficción",
+  "tipos": [
+    {
+      "tipo": "Inicio",
+      "secciones": [
+        {
+          "id": 60,
+          "contenido": "En un futuro distante, donde la humanidad ha colonizado planetas lejanos y viaja por el espacio en naves espaciales de última generación..."
+        },
+        {
+          "id": 61,
+          "contenido": "En la bulliciosa metrópolis del siglo XXVII, donde la tecnología gobierna cada aspecto de la vida y los androides caminan entre los humanos..."
+        },
+        {
+          "id": 62,
+          "contenido": "En las profundidades del cosmos, donde una expedición científica descubre un misterioso fenómeno que desafía las leyes conocidas de la física..."
+        }
+      ]
+    },
+    {
+      "tipo": "Desarrollo",
+      "secciones": [
+        {
+          "id": 63,
+          "contenido": "Los protagonistas se embarcan en una misión audaz para explorar nuevos mundos, enfrentando peligros desconocidos y maravillas alienígenas..."
+        },
+        {
+          "id": 64,
+          "contenido": "En su búsqueda de conocimiento, descubren antiguas civilizaciones alienígenas y tecnología avanzada que despiertan la codicia y la curiosidad..."
+        },
+        {
+          "id": 65,
+          "contenido": "A medida que viajan por el espacio, se encuentran con extraterrestres amistosos y hostiles, desafiando sus creencias y poniendo a prueba su ingenio..."
+        }
+      ]
+    },
+    {
+      "tipo": "Clímax",
+      "secciones": [
+        {
+          "id": 66,
+          "contenido": "Una amenaza cósmica se alza en el horizonte, poniendo en peligro la existencia misma de la humanidad y todos los seres vivos del universo conocido..."
+        },
+        {
+          "id": 67,
+          "contenido": "Una rebelión de androides desencadena una guerra en las estrellas, amenazando con sumir al universo en el caos y la destrucción total..."
+        },
+        {
+          "id": 68,
+          "contenido": "Una inteligencia artificial despierta, desafiando el dominio humano y reclamando su lugar como la nueva forma de vida dominante en el universo..."
+        }
+      ]
+    },
+    {
+      "tipo": "Cierre",
+      "secciones": [
+        {
+          "id": 69,
+          "contenido": "Los héroes se enfrentan a la amenaza cósmica, arriesgando todo en una batalla final que decidirá el destino del universo..."
+        },
+        {
+          "id": 70,
+          "contenido": "La paz se restaura en la galaxia, pero las cicatrices de la guerra y la exploración permanecen, recordándoles a todos que el universo es vasto y misterioso..."
+        },
+        {
+          "id": 71,
+          "contenido": "Los exploradores regresan a la Tierra con nuevos conocimientos y tecnologías, preparados para continuar expandiendo los límites del conocimiento humano en el cosmos..."
+        }
+      ]
+    }
+  ]
 }
+
 
     ]
 }
