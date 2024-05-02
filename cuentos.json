@@ -262,6 +262,79 @@
                     ]
                 }
             ]
+        },{
+  "categoria": "Terror",
+  "tipos": [
+    {
+      "tipo": "Inicio",
+      "secciones": [
+        {
+          "id": 48,
+          "contenido": "En una noche tormentosa, donde el viento aúlla y los árboles susurran secretos oscuros..."
+        },
+        {
+          "id": 49,
+          "contenido": "En un pueblo olvidado, donde las sombras acechan en cada esquina y las casas abandonadas guardan secretos siniestros..."
+        },
+        {
+          "id": 50,
+          "contenido": "En una mansión antigua y decrépita, donde los pasillos crujen y los retratos parecen seguirte con la mirada..."
         }
+      ]
+    },
+    {
+      "tipo": "Desarrollo",
+      "secciones": [
+        {
+          "id": 51,
+          "contenido": "Extraños sucesos comienzan a ocurrir, señales de una presencia maligna que se manifiesta en la oscuridad..."
+        },
+        {
+          "id": 52,
+          "contenido": "Los habitantes del pueblo empiezan a desaparecer misteriosamente, dejando solo rastros de terror y desesperación..."
+        },
+        {
+          "id": 53,
+          "contenido": "Quienes se aventuran en la mansión descubren que no están solos, y que algo antiguo y maligno acecha en sus sombríos rincones..."
+        }
+      ]
+    },
+    {
+      "tipo": "Clímax",
+      "secciones": [
+        {
+          "id": 54,
+          "contenido": "Los protagonistas descubren un antiguo ritual oscuro que podría liberar al mal que habita en el lugar..."
+        },
+        {
+          "id": 55,
+          "contenido": "Una presencia maligna se manifiesta en toda su horrenda gloria, desatando el caos y el terror entre los valientes que se atreven a enfrentarla..."
+        },
+        {
+          "id": 56,
+          "contenido": "Los secretos oscuros de la mansión se revelan, revelando una historia de tragedia y sufrimiento que aún persigue a los vivos..."
+        }
+      ]
+    },
+    {
+      "tipo": "Cierre",
+      "secciones": [
+        {
+          "id": 57,
+          "contenido": "Los pocos sobrevivientes huyen del pueblo maldito, sabiendo que nunca podrán olvidar las horribles experiencias que vivieron..."
+        },
+        {
+          "id": 58,
+          "contenido": "La mansión queda en ruinas, pero la oscuridad que la habita perdura, esperando a que nuevos incautos se adentren en sus terribles dominios..."
+        },
+        {
+          "id": 59,
+          "contenido": "La noche de terror ha pasado, pero el recuerdo de las sombras y los susurros permanece, acechando en los sueños de quienes osaron desafiar lo desconocido..."
+        }
+      ]
+    }
+  ]
+}
+
     ]
 }
