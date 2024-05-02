@@ -86,4 +86,77 @@
       ]
     }
   ]
+},{
+  "categoria": "Romántico",
+  "tipos": [
+    {
+      "tipo": "Inicio",
+      "secciones": [
+        {
+          "id": 36,
+          "contenido": "En una pequeña ciudad costera, donde las olas acarician la playa al amanecer..."
+        },
+        {
+          "id": 37,
+          "contenido": "En un café acogedor, donde el aroma del café se mezcla con el susurro de las conversaciones..."
+        },
+        {
+          "id": 38,
+          "contenido": "En un parque tranquilo, donde los rayos del sol bailan entre las hojas de los árboles..."
+        }
+      ]
+    },
+    {
+      "tipo": "Desarrollo",
+      "secciones": [
+        {
+          "id": 39,
+          "contenido": "Dos corazones se encuentran en un encuentro fortuito, desatando una chispa de conexión..."
+        },
+        {
+          "id": 40,
+          "contenido": "A medida que comparten risas y secretos, descubren un mundo nuevo lleno de posibilidades..."
+        },
+        {
+          "id": 41,
+          "contenido": "Caminan juntos por las calles, compartiendo sueños y esperanzas bajo la luz de la luna..."
+        }
+      ]
+    },
+    {
+      "tipo": "Clímax",
+      "secciones": [
+        {
+          "id": 42,
+          "contenido": "Un momento mágico bajo las estrellas sella su amor con un beso apasionado..."
+        },
+        {
+          "id": 43,
+          "contenido": "En medio de un baile romántico, se dan cuenta de que están destinados el uno para el otro..."
+        },
+        {
+          "id": 44,
+          "contenido": "Una aventura juntos los lleva a enfrentar desafíos que ponen a prueba su amor y compromiso..."
+        }
+      ]
+    },
+    {
+      "tipo": "Cierre",
+      "secciones": [
+        {
+          "id": 45,
+          "contenido": "En el altar, intercambian votos de amor eterno, prometiendo caminar juntos por la vida..."
+        },
+        {
+          "id": 46,
+          "contenido": "Bajo un cielo estrellado, se prometen amor eterno, sabiendo que su historia apenas comienza..."
+        },
+        {
+          "id": 47,
+          "contenido": "Regresan al lugar donde se conocieron por primera vez, recordando con cariño cómo comenzó todo..."
+        }
+      ]
+    }
+  ]
 }
+
