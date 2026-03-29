@@ -6,328 +6,130 @@
         {
           "tipo": "Inicio",
           "secciones": [
-            { "id": 1, "contenido": "En un reino olvidado por los mapas, alguien siente que su destino está más allá del horizonte." },
-            { "id": 2, "contenido": "En un puerto lejano, una figura observa el mar sabiendo que su vida está a punto de cambiar." },
-            { "id": 3, "contenido": "Entre montañas antiguas, comienza un viaje que nadie más se atrevería a emprender." },
-            { "id": 4, "contenido": "En una aldea tranquila, un evento inesperado rompe la rutina para siempre." },
-            { "id": 5, "contenido": "Bajo un cielo inmenso, surge la inquietud de descubrir lo desconocido." }
+            { "id": 1, "contenido": "En un reino donde los mapas terminaban en bordes en blanco, alguien creció escuchando historias de tierras que nadie había logrado regresar para describir. Cada noche, mirando el horizonte, sentía que su vida no pertenecía a ese lugar." },
+            { "id": 2, "contenido": "El puerto olía a sal, madera húmeda y despedidas. Entre barcos que partían hacia destinos inciertos, una figura sostenía un objeto heredado que parecía más antiguo que cualquier historia conocida." },
+            { "id": 3, "contenido": "En las montañas del norte, donde el viento aullaba como si guardara secretos, una decisión silenciosa cambió el rumbo de una vida para siempre." },
+            { "id": 4, "contenido": "La rutina de la aldea se rompió el día en que algo cayó del cielo, dejando una marca imposible de ignorar en la tierra… y en quien lo encontró." },
+            { "id": 5, "contenido": "Entre calles polvorientas y miradas indiferentes, alguien comenzó a notar pequeños detalles que no encajaban, como si el mundo ocultara algo justo fuera de la vista." }
           ]
         },
         {
           "tipo": "El Llamado",
           "secciones": [
-            { "id": 100, "contenido": "Un objeto extraño aparece, marcando el inicio de algo imposible de ignorar." },
-            { "id": 101, "contenido": "Un desconocido deja un mensaje que cambia todo." },
-            { "id": 102, "contenido": "Un mapa revela un destino prohibido." },
-            { "id": 103, "contenido": "Un sueño repetitivo señala un camino oculto." },
-            { "id": 104, "contenido": "Una señal inexplicable apunta hacia lo desconocido." }
+            { "id": 100, "contenido": "Una reliquia olvidada comenzó a emitir un leve pulso, casi imperceptible, como si reaccionara a su cercanía… como si lo reconociera." },
+            { "id": 101, "contenido": "Un anciano de mirada cansada se le acercó solo para susurrarle una advertencia: “Si empiezas este camino, no habrá regreso.” Luego desapareció entre la multitud." },
+            { "id": 102, "contenido": "Dentro de un viejo cofre, encontró un mapa incompleto. Lo inquietante no era su contenido, sino que parecía haber sido dibujado pensando específicamente en él." },
+            { "id": 103, "contenido": "Los sueños comenzaron a repetirse: un lugar desconocido, una voz llamándolo por su nombre y una sensación de urgencia que no desaparecía al despertar." },
+            { "id": 104, "contenido": "Un mensaje oculto en un objeto cotidiano reveló algo perturbador: su historia no era tan común como siempre creyó." }
           ]
         },
         {
           "tipo": "Desarrollo",
           "secciones": [
-            { "id": 200, "contenido": "El camino se vuelve difícil, lleno de desafíos inesperados." },
-            { "id": 201, "contenido": "Encuentra aliados que esconden secretos." },
-            { "id": 202, "contenido": "Cada paso revela pistas de una verdad mayor." },
-            { "id": 203, "contenido": "Las decisiones comienzan a tener consecuencias reales." },
-            { "id": 204, "contenido": "El peligro crece a medida que avanza." }
+            { "id": 200, "contenido": "El camino pronto dejó de ser una elección y se convirtió en una prueba constante. Cada decisión traía consecuencias, y no todas eran fáciles de aceptar." },
+            { "id": 201, "contenido": "En tabernas olvidadas y senderos peligrosos, encontró aliados que ofrecían ayuda… aunque en sus miradas se escondían historias no contadas." },
+            { "id": 202, "contenido": "Las pistas aparecían como fragmentos de algo más grande, una verdad que parecía armarse lentamente frente a sus ojos." },
+            { "id": 203, "contenido": "A medida que avanzaba, el mundo parecía reaccionar a su presencia, como si su viaje estuviera alterando algo más profundo." },
+            { "id": 204, "contenido": "El cansancio, la duda y el peligro comenzaron a pesar, pero algo dentro de él le impedía detenerse." }
           ]
         },
         {
           "tipo": "El Giro",
           "secciones": [
-            { "id": 300, "contenido": "Descubre que no todo era lo que parecía." },
-            { "id": 301, "contenido": "Alguien cercano lo ha estado manipulando." },
-            { "id": 302, "contenido": "El verdadero objetivo cambia por completo." },
-            { "id": 303, "contenido": "El enemigo no es quien pensaba." },
-            { "id": 304, "contenido": "Su papel en la historia es mucho más importante." }
+            { "id": 300, "contenido": "Descubrió que uno de sus aliados sabía más de lo que decía, y que su presencia en el viaje no había sido casual." },
+            { "id": 301, "contenido": "El mapa no señalaba un destino… señalaba un evento que aún no había ocurrido." },
+            { "id": 302, "contenido": "Lo que buscaba no era un objeto ni un lugar, sino una verdad que había sido ocultada deliberadamente." },
+            { "id": 303, "contenido": "El enemigo al que temía no era el verdadero peligro, sino apenas una consecuencia de algo mucho mayor." },
+            { "id": 304, "contenido": "Comprendió que todo el camino había sido guiado, cada paso empujándolo hacia un rol que no había elegido." }
           ]
         },
         {
           "tipo": "Clímax",
           "secciones": [
-            { "id": 400, "contenido": "Debe enfrentar la verdad sin posibilidad de escapar." },
-            { "id": 401, "contenido": "Todo se decide en un solo momento." },
-            { "id": 402, "contenido": "Una batalla final pone todo en juego." },
-            { "id": 403, "contenido": "Debe elegir entre dos caminos imposibles." },
-            { "id": 404, "contenido": "El destino se define en un instante crítico." }
+            { "id": 400, "contenido": "Frente a la verdad, ya no había espacio para dudas. Todo lo vivido lo había preparado para ese momento." },
+            { "id": 401, "contenido": "El enfrentamiento final no fue solo físico, sino una lucha interna entre lo que era y lo que debía convertirse." },
+            { "id": 402, "contenido": "El destino del mundo parecía pender de una decisión que solo él podía tomar." },
+            { "id": 403, "contenido": "En un instante de absoluta claridad, entendió que no podía salvarlo todo… debía elegir." },
+            { "id": 404, "contenido": "El sacrificio dejó una marca irreversible, pero también abrió el camino hacia algo nuevo." }
           ]
         },
         {
           "tipo": "Cierre",
           "secciones": [
-            { "id": 500, "contenido": "El viaje termina, pero nada vuelve a ser igual." },
-            { "id": 501, "contenido": "Regresa transformado por lo vivido." },
-            { "id": 502, "contenido": "Las consecuencias perduran más allá del final." },
-            { "id": 503, "contenido": "Todo encuentra finalmente su lugar." },
-            { "id": 504, "contenido": "Un nuevo comienzo se asoma en el horizonte." }
+            { "id": 500, "contenido": "Cuando todo terminó, el silencio se sintió diferente. No era vacío, sino el eco de todo lo que había cambiado." },
+            { "id": 501, "contenido": "Regresar ya no significaba volver al inicio, porque quien partió ya no existía." },
+            { "id": 502, "contenido": "Las historias que antes escuchaba ahora llevaban su nombre, aunque nadie conociera realmente lo que había ocurrido." },
+            { "id": 503, "contenido": "El mundo siguió adelante, pero con una sutil diferencia que solo algunos podían percibir." },
+            { "id": 504, "contenido": "Y aunque el viaje había terminado, algo en el horizonte sugería que esto no era el final." }
           ]
         }
       ]
     },
 
     {
-      "categoria": "Fantasía",
+      "categoria": "Romántico",
       "tipos": [
         {
           "tipo": "Inicio",
           "secciones": [
-            { "id": 600, "contenido": "En un mundo donde la magia fluye en cada rincón, algo comienza a cambiar." },
-            { "id": 601, "contenido": "En un bosque encantado, los árboles parecen susurrar advertencias." },
-            { "id": 602, "contenido": "En un reino de hechicería, alguien descubre un poder oculto." },
-            { "id": 603, "contenido": "Bajo cielos irreales, una señal rompe la armonía del mundo." },
-            { "id": 604, "contenido": "Entre criaturas míticas, surge una historia destinada a ser recordada." }
+            { "id": 600, "contenido": "La ciudad seguía su ritmo habitual, indiferente, hasta que dos caminos se cruzaron sin intención… y algo en el aire cambió imperceptiblemente." },
+            { "id": 601, "contenido": "En un café donde nadie se detenía demasiado, una mirada se sostuvo un segundo más de lo normal, suficiente para alterar el resto del día." },
+            { "id": 602, "contenido": "Entre hojas de otoño que caían sin apuro, un encuentro casual dejó una sensación difícil de explicar." },
+            { "id": 603, "contenido": "Una coincidencia improbable los puso en el mismo lugar, en el mismo instante, como si algo los hubiera empujado ahí." },
+            { "id": 604, "contenido": "No hubo nada extraordinario al principio… salvo esa extraña certeza de que ese momento importaba." }
           ]
         },
         {
-          "tipo": "El Despertar",
+          "tipo": "La Chispa",
           "secciones": [
-            { "id": 700, "contenido": "Un poder dormido comienza a manifestarse." },
-            { "id": 701, "contenido": "Una visión revela un futuro incierto." },
-            { "id": 702, "contenido": "Un símbolo antiguo aparece marcando el destino." },
-            { "id": 703, "contenido": "Una criatura mágica trae un mensaje." },
-            { "id": 704, "contenido": "La realidad comienza a alterarse." }
+            { "id": 700, "contenido": "La conversación comenzó sin intención de durar, pero ninguno encontró una razón para terminarla." },
+            { "id": 701, "contenido": "Una risa compartida rompió cualquier incomodidad, dejando espacio para algo más sincero." },
+            { "id": 702, "contenido": "El tiempo pasó demasiado rápido, como si alguien lo hubiera acortado deliberadamente." },
+            { "id": 703, "contenido": "Un gesto pequeño —casi insignificante— dejó una impresión que ninguno pudo ignorar." },
+            { "id": 704, "contenido": "Sin decirlo, ambos sintieron que algo había comenzado." }
           ]
         },
         {
           "tipo": "Desarrollo",
           "secciones": [
-            { "id": 800, "contenido": "Explora territorios donde la magia es impredecible." },
-            { "id": 801, "contenido": "Descubre secretos de antiguas civilizaciones." },
-            { "id": 802, "contenido": "Forma alianzas con seres inesperados." },
-            { "id": 803, "contenido": "Aprende a controlar un poder peligroso." },
-            { "id": 804, "contenido": "Se enfrenta a pruebas que desafían su mente." }
+            { "id": 800, "contenido": "Los encuentros se volvieron frecuentes, y con ellos, una cercanía que crecía sin esfuerzo." },
+            { "id": 801, "contenido": "Compartieron historias que no solían contar, como si el otro fuera un lugar seguro." },
+            { "id": 802, "contenido": "Las conversaciones empezaron a llenar silencios que antes pesaban demasiado." },
+            { "id": 803, "contenido": "Cada despedida traía consigo la promesa implícita de un próximo encuentro." },
+            { "id": 804, "contenido": "Sin darse cuenta, comenzaron a ocupar un lugar importante en la vida del otro." }
           ]
         },
         {
-          "tipo": "La Prueba",
+          "tipo": "El Obstáculo",
           "secciones": [
-            { "id": 900, "contenido": "Debe enfrentar su mayor miedo." },
-            { "id": 901, "contenido": "Un sacrificio es necesario para avanzar." },
-            { "id": 902, "contenido": "Un enigma pone a prueba su inteligencia." },
-            { "id": 903, "contenido": "La magia amenaza con consumirlo todo." },
-            { "id": 904, "contenido": "Debe decidir quién quiere ser realmente." }
-          ]
-        },
-        {
-          "tipo": "Clímax",
-          "secciones": [
-            { "id": 1000, "contenido": "Una batalla mágica sacude el mundo." },
-            { "id": 1001, "contenido": "El destino del reino se decide." },
-            { "id": 1002, "contenido": "El poder alcanza su punto máximo." },
-            { "id": 1003, "contenido": "Todo converge en un instante decisivo." },
-            { "id": 1004, "contenido": "La oscuridad y la luz colisionan." }
-          ]
-        },
-        {
-          "tipo": "Cierre",
-          "secciones": [
-            { "id": 1100, "contenido": "La magia se estabiliza nuevamente." },
-            { "id": 1101, "contenido": "El equilibrio regresa al mundo." },
-            { "id": 1102, "contenido": "Un nuevo guardián emerge." },
-            { "id": 1103, "contenido": "El ciclo continúa." },
-            { "id": 1104, "contenido": "La historia se convierte en leyenda." }
-          ]
-        }
-      ]
-    },
-
-    {
-      "categoria": "Terror",
-      "tipos": [
-        {
-          "tipo": "Inicio",
-          "secciones": [
-            { "id": 1200, "contenido": "Una noche silenciosa se vuelve inquietante sin razón aparente." },
-            { "id": 1201, "contenido": "Un lugar abandonado parece observar a quien entra." },
-            { "id": 1202, "contenido": "Algo no encaja en la realidad cotidiana." },
-            { "id": 1203, "contenido": "Un presentimiento oscuro aparece sin explicación." },
-            { "id": 1204, "contenido": "El silencio comienza a sentirse demasiado pesado." }
-          ]
-        },
-        {
-          "tipo": "El Presagio",
-          "secciones": [
-            { "id": 1300, "contenido": "Un susurro rompe la calma." },
-            { "id": 1301, "contenido": "Algo se mueve donde no debería." },
-            { "id": 1302, "contenido": "Una señal advierte peligro." },
-            { "id": 1303, "contenido": "Un objeto cambia por sí solo." },
-            { "id": 1304, "contenido": "Una presencia se hace evidente." }
-          ]
-        },
-        {
-          "tipo": "Desarrollo",
-          "secciones": [
-            { "id": 1400, "contenido": "El miedo crece con cada segundo." },
-            { "id": 1401, "contenido": "La realidad comienza a distorsionarse." },
-            { "id": 1402, "contenido": "No hay forma de escapar." },
-            { "id": 1403, "contenido": "Algo los observa constantemente." },
-            { "id": 1404, "contenido": "Las sombras cobran vida." }
-          ]
-        },
-        {
-          "tipo": "Revelación",
-          "secciones": [
-            { "id": 1500, "contenido": "La verdad es peor de lo imaginado." },
-            { "id": 1501, "contenido": "No están solos." },
-            { "id": 1502, "contenido": "El origen del horror se revela." },
-            { "id": 1503, "contenido": "Todo estaba conectado." },
-            { "id": 1504, "contenido": "El peligro es interno." }
+            { "id": 900, "contenido": "Una decisión importante apareció de repente, amenazando con cambiarlo todo." },
+            { "id": 901, "contenido": "Un malentendido, pequeño pero persistente, comenzó a crear distancia." },
+            { "id": 902, "contenido": "El miedo a perder lo que tenían empezó a pesar más que la felicidad que compartían." },
+            { "id": 903, "contenido": "Circunstancias externas comenzaron a interferir, complicando lo que antes parecía simple." },
+            { "id": 904, "contenido": "El pasado de uno de ellos regresó, trayendo dudas que no eran fáciles de ignorar." }
           ]
         },
         {
           "tipo": "Clímax",
           "secciones": [
-            { "id": 1600, "contenido": "El horror alcanza su punto máximo." },
-            { "id": 1601, "contenido": "La supervivencia es incierta." },
-            { "id": 1602, "contenido": "Todo se descontrola." },
-            { "id": 1603, "contenido": "El enfrentamiento es inevitable." },
-            { "id": 1604, "contenido": "No hay salida clara." }
+            { "id": 1000, "contenido": "En un momento donde todo parecía romperse, finalmente dijeron lo que habían estado evitando." },
+            { "id": 1001, "contenido": "El tiempo pareció detenerse mientras enfrentaban la verdad." },
+            { "id": 1002, "contenido": "La decisión que tomaran definiría lo que vendría después." },
+            { "id": 1003, "contenido": "Entre miedo y deseo, eligieron no seguir huyendo." },
+            { "id": 1004, "contenido": "Todo se redujo a un instante en el que el silencio decía más que las palabras." }
           ]
         },
         {
           "tipo": "Cierre",
           "secciones": [
-            { "id": 1700, "contenido": "Nada vuelve a la normalidad." },
-            { "id": 1701, "contenido": "El horror deja huella." },
-            { "id": 1702, "contenido": "Algo permanece oculto." },
-            { "id": 1703, "contenido": "El final no es realmente el final." },
-            { "id": 1704, "contenido": "El silencio regresa... por ahora." }
-          ]
-        }
-      ]
-    },
-
-    {
-      "categoria": "Ciencia Ficcion",
-      "tipos": [
-        {
-          "tipo": "Inicio",
-          "secciones": [
-            { "id": 1800, "contenido": "En una estación espacial, algo imposible es detectado." },
-            { "id": 1801, "contenido": "En una ciudad futurista, la realidad comienza a fallar." },
-            { "id": 1802, "contenido": "Una misión espacial cambia inesperadamente." },
-            { "id": 1803, "contenido": "Un experimento sale mal." },
-            { "id": 1804, "contenido": "La tecnología deja de comportarse como debería." }
-          ]
-        },
-        {
-          "tipo": "La Anomalía",
-          "secciones": [
-            { "id": 1900, "contenido": "Una señal inexplicable aparece." },
-            { "id": 1901, "contenido": "La inteligencia artificial evoluciona." },
-            { "id": 1902, "contenido": "El tiempo se comporta de forma extraña." },
-            { "id": 1903, "contenido": "Un mensaje imposible llega." },
-            { "id": 1904, "contenido": "La realidad empieza a fragmentarse." }
-          ]
-        },
-        {
-          "tipo": "Desarrollo",
-          "secciones": [
-            { "id": 2000, "contenido": "Exploran lo desconocido." },
-            { "id": 2001, "contenido": "Descubren una verdad inquietante." },
-            { "id": 2002, "contenido": "La misión se complica." },
-            { "id": 2003, "contenido": "La tripulación entra en conflicto." },
-            { "id": 2004, "contenido": "El peligro aumenta." }
-          ]
-        },
-        {
-          "tipo": "Transgresión",
-          "secciones": [
-            { "id": 2100, "contenido": "Cruzan un límite peligroso." },
-            { "id": 2101, "contenido": "Descubren la verdad oculta." },
-            { "id": 2102, "contenido": "El experimento se descontrola." },
-            { "id": 2103, "contenido": "Alguien toma una decisión extrema." },
-            { "id": 2104, "contenido": "Todo cambia radicalmente." }
-          ]
-        },
-        {
-          "tipo": "Clímax",
-          "secciones": [
-            { "id": 2200, "contenido": "El destino de la humanidad está en juego." },
-            { "id": 2201, "contenido": "La situación alcanza su punto crítico." },
-            { "id": 2202, "contenido": "Todo depende de una última acción." },
-            { "id": 2203, "contenido": "El tiempo se agota." },
-            { "id": 2204, "contenido": "No hay margen de error." }
-          ]
-        },
-        {
-          "tipo": "Cierre",
-          "secciones": [
-            { "id": 2300, "contenido": "Nada vuelve a ser igual." },
-            { "id": 2301, "contenido": "Un nuevo futuro comienza." },
-            { "id": 2302, "contenido": "El descubrimiento cambia todo." },
-            { "id": 2303, "contenido": "La humanidad evoluciona." },
-            { "id": 2304, "contenido": "El universo guarda aún más secretos." }
-          ]
-        }
-      ]
-    },
-
-    {
-      "categoria": "Misterio",
-      "tipos": [
-        {
-          "tipo": "Inicio",
-          "secciones": [
-            { "id": 2400, "contenido": "Un caso extraño aparece sin explicación." },
-            { "id": 2401, "contenido": "Algo no encaja desde el principio." },
-            { "id": 2402, "contenido": "Un evento inexplicable rompe la normalidad." },
-            { "id": 2403, "contenido": "Una desaparición desconcierta a todos." },
-            { "id": 2404, "contenido": "Un detalle aparentemente menor llama la atención." }
-          ]
-        },
-        {
-          "tipo": "La Pista",
-          "secciones": [
-            { "id": 2500, "contenido": "Aparece una pista clave." },
-            { "id": 2501, "contenido": "Un testigo revela información." },
-            { "id": 2502, "contenido": "Un objeto sospechoso aparece." },
-            { "id": 2503, "contenido": "Una conexión inesperada surge." },
-            { "id": 2504, "contenido": "Un patrón comienza a notarse." }
-          ]
-        },
-        {
-          "tipo": "Desarrollo",
-          "secciones": [
-            { "id": 2600, "contenido": "Las pistas se acumulan." },
-            { "id": 2601, "contenido": "Nada es lo que parece." },
-            { "id": 2602, "contenido": "Los sospechosos aumentan." },
-            { "id": 2603, "contenido": "La verdad parece cercana." },
-            { "id": 2604, "contenido": "Surgen nuevas preguntas." }
-          ]
-        },
-        {
-          "tipo": "El Giro",
-          "secciones": [
-            { "id": 2700, "contenido": "Todo cambia inesperadamente." },
-            { "id": 2701, "contenido": "El culpable no es quien parecía." },
-            { "id": 2702, "contenido": "Una verdad oculta sale a la luz." },
-            { "id": 2703, "contenido": "Una traición lo cambia todo." },
-            { "id": 2704, "contenido": "La pista clave estaba mal interpretada." }
-          ]
-        },
-        {
-          "tipo": "Clímax",
-          "secciones": [
-            { "id": 2800, "contenido": "Se revela la verdad." },
-            { "id": 2801, "contenido": "El misterio llega a su punto máximo." },
-            { "id": 2802, "contenido": "Todo encaja finalmente." },
-            { "id": 2803, "contenido": "El culpable queda expuesto." },
-            { "id": 2804, "contenido": "Se enfrentan las consecuencias." }
-          ]
-        },
-        {
-          "tipo": "Cierre",
-          "secciones": [
-            { "id": 2900, "contenido": "El caso se cierra." },
-            { "id": 2901, "contenido": "La verdad deja secuelas." },
-            { "id": 2902, "contenido": "Todo vuelve a la calma." },
-            { "id": 2903, "contenido": "Nada vuelve a ser igual." },
-            { "id": 2904, "contenido": "El misterio se convierte en historia." }
+            { "id": 1100, "contenido": "Al final, entendieron que algunas historias valen el riesgo." },
+            { "id": 1101, "contenido": "Nada fue perfecto, pero era real, y eso era suficiente." },
+            { "id": 1102, "contenido": "Lo que comenzó sin intención se convirtió en algo imposible de ignorar." },
+            { "id": 1103, "contenido": "Siguieron adelante, juntos, sin saber exactamente qué vendría después." },
+            { "id": 1104, "contenido": "Y aunque el futuro era incierto, por primera vez no parecía dar miedo." }
           ]
         }
       ]
     }
   ]
-            }
+}
