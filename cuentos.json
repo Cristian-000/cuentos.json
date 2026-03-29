@@ -1,413 +1,269 @@
 {
-    "cuentos": [
-        {
-            "categoria": "Aventura",
-            "tipos": [
-                {
-                    "tipo": "Inicio",
-                    "secciones": [
-                        {
-                            "id": 1,
-                            "contenido": "En un reino lejano, un héroe se embarca en un viaje épico..."
-                        },
-                        {
-                            "id": 2,
-                            "contenido": "En tierras desconocidas, un aventurero comienza su búsqueda..."
-                        },
-                        {
-                            "id": 3,
-                            "contenido": "En las vastas llanuras de un mundo olvidado, un joven aventurero emprende un viaje lleno de misterios..."
-                        }
-                    ]
-                },
-                {
-                    "tipo": "Desarrollo",
-                    "secciones": [
-                        {
-                            "id": 4,
-                            "contenido": "Enfrenta desafíos inesperados y encuentra aliados invaluables..."
-                        },
-                        {
-                            "id": 5,
-                            "contenido": "Se encuentra con criaturas mágicas y desafíos imprevistos..."
-                        },
-                        {
-                            "id": 6,
-                            "contenido": "Se topa con ruinas ancestrales y descubre inscripciones que hablan de un tesoro perdido."
-                        },
-                        {
-                            "id": 7,
-                            "contenido": "En su búsqueda, encuentra compañeros de viaje que comparten su deseo de aventura."
-                        }
-                    ]
-                },
-                {
-                    "tipo": "Clímax",
-                    "secciones": [
-                        {
-                            "id": 8,
-                            "contenido": "Descubre un antiguo secreto que cambiará su destino..."
-                        },
-                        {
-                            "id": 9,
-                            "contenido": "Descubre un artefacto antiguo que podría cambiar el curso de la historia..."
-                        },
-                        {
-                            "id": 10,
-                            "contenido": "Tras superar desafíos traicioneros, llega a una isla misteriosa donde se rumorea que se encuentra el tesoro."
-                        },
-                        {
-                            "id": 11,
-                            "contenido": "Allí, enfrenta a guardianes mágicos que protegen el camino hacia la recompensa deseada."
-                        }
-                    ]
-                },
-                {
-                    "tipo": "Cierre",
-                    "secciones": [
-                        {
-                            "id": 12,
-                            "contenido": "Se enfrenta a un enemigo formidable en la batalla final..."
-                        },
-                        {
-                            "id": 13,
-                            "contenido": "Regresa a casa como un héroe, pero el viaje nunca termina..."
-                        },
-                        {
-                            "id": 14,
-                            "contenido": "Se despide de sus nuevos amigos y continúa hacia el horizonte..."
-                        },
-                        {
-                            "id": 15,
-                            "contenido": "Después de una épica batalla, el aventurero alcanza el tesoro, pero descubre que la verdadera riqueza está en la experiencia y amistad ganadas durante el viaje."
-                        },
-                        {
-                            "id": 16,
-                            "contenido": "Regresa a casa con tesoros materiales y recuerdos invaluables, listo para la siguiente gran aventura."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "Fantasía",
-            "tipos": [
-                {
-                    "tipo": "Inicio",
-                    "secciones": [
-                        {
-                            "id": 17,
-                            "contenido": "En el misterioso bosque encantado, donde los árboles susurran secretos..."
-                        },
-                        {
-                            "id": 18,
-                            "contenido": "En un reino de dragones y hechicería, una princesa comienza su viaje..."
-                        },
-                        {
-                            "id": 19,
-                            "contenido": "En un mundo donde las estrellas son puertas a otros reinos, una joven hechicera inicia su viaje hacia lo desconocido..."
-                        },
-                        {
-                            "id": 20,
-                            "contenido": "En una isla perdida en medio del océano, un intrépido explorador comienza su expedición hacia lo desconocido..."
-                        }
-                    ]
-                },
-                {
-                    "tipo": "Desarrollo",
-                    "secciones": [
-                        {
-                            "id": 21,
-                            "contenido": "Un portal mágico se abre, revelando un mundo de maravillas..."
-                        },
-                        {
-                            "id": 22,
-                            "contenido": "Se encuentra con seres mitológicos y descubre su destino épico..."
-                        },
-                        {
-                            "id": 23,
-                            "contenido": "Descubre antiguos grimorios que revelan la existencia de un portal estelar olvidado."
-                        },
-                        {
-                            "id": 24,
-                            "contenido": "Descubre un antiguo mapa que señala la ubicación de un tesoro legendario, oculto en las profundidades de la isla."
-                        }
-                    ]
-                },
-                {
-                    "tipo": "Clímax",
-                    "secciones": [
-                        {
-                            "id": 25,
-                            "contenido": "Criaturas mágicas se convierten en aliados inesperados..."
-                        },
-                        {
-                            "id": 26,
-                            "contenido": "Una batalla feroz contra las fuerzas del mal desata el poder interior de la princesa..."
-                        },
-                        {
-                            "id": 27,
-                            "contenido": "En este reino, se encuentra con seres míticos que buscan su guía para enfrentar una amenaza oscura.  La hechicera se embarca en una misión épica para reunir artefactos mágicos y fortalecer su poder."
-                        },
-                        {
-                            "id": 28,
-                            "contenido": "Llega a una antigua pirámide donde el tesoro está resguardado por trampas mortales y guardianes misteriosos."
-                        }
-                    ]
-                },
-                {
-                    "tipo": "Cierre",
-                    "secciones": [
-                        {
-                            "id": 29,
-                            "contenido": "Confrontación con la oscuridad que amenaza con destruir la magia..."
-                        },
-                        {
-                            "id": 30,
-                            "contenido": "La paz se restaura y la magia perdura en el bosque encantado..."
-                        },
-                        {
-                            "id": 31,
-                            "contenido": "La princesa asume su papel como líder y guía a su reino hacia la prosperidad..."
-                        },
-                        {
-                            "id": 32,
-                            "contenido": "En la batalla final, desata su magia en una explosión de luz, derrotando a la oscuridad y restaurando la paz en los reinos estelares."
-                        },
-                        {
-                            "id": 33,
-                            "contenido": "Convertida en guardiana de los portales, la joven hechicera regresa a su mundo con la gratitud de los seres mágicos y la sabiduría de la fantasía."
-                        },
-                        {
-                            "id": 34,
-                            "contenido": "Regresa a casa como un héroe, cargado con tesoros invaluables y experiencias extraordinarias."
-                        },
-                        {
-                            "id": 35,
-                            "contenido": "Aunque la expedición ha concluido, el explorador sabe que siempre habrá nuevas aventuras esperando en el horizonte."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "Romántico",
-            "tipos": [
-                {
-                    "tipo": "Inicio",
-                    "secciones": [
-                        {
-                            "id": 36,
-                            "contenido": "En una pequeña ciudad costera, donde las olas acarician la playa al amanecer..."
-                        },
-                        {
-                            "id": 37,
-                            "contenido": "En un café acogedor, donde el aroma del café se mezcla con el susurro de las conversaciones..."
-                        },
-                        {
-                            "id": 38,
-                            "contenido": "En un parque tranquilo, donde los rayos del sol bailan entre las hojas de los árboles..."
-                        }
-                    ]
-                },
-                {
-                    "tipo": "Desarrollo",
-                    "secciones": [
-                        {
-                            "id": 39,
-                            "contenido": "Dos corazones se encuentran en un encuentro fortuito, desatando una chispa de conexión..."
-                        },
-                        {
-                            "id": 40,
-                            "contenido": "A medida que comparten risas y secretos, descubren un mundo nuevo lleno de posibilidades..."
-                        },
-                        {
-                            "id": 41,
-                            "contenido": "Caminan juntos por las calles, compartiendo sueños y esperanzas bajo la luz de la luna..."
-                        }
-                    ]
-                },
-                {
-                    "tipo": "Clímax",
-                    "secciones": [
-                        {
-                            "id": 42,
-                            "contenido": "Un momento mágico bajo las estrellas sella su amor con un beso apasionado..."
-                        },
-                        {
-                            "id": 43,
-                            "contenido": "En medio de un baile romántico, se dan cuenta de que están destinados el uno para el otro..."
-                        },
-                        {
-                            "id": 44,
-                            "contenido": "Una aventura juntos los lleva a enfrentar desafíos que ponen a prueba su amor y compromiso..."
-                        }
-                    ]
-                },
-                {
-                    "tipo": "Cierre",
-                    "secciones": [
-                        {
-                            "id": 45,
-                            "contenido": "En el altar, intercambian votos de amor eterno, prometiendo caminar juntos por la vida..."
-                        },
-                        {
-                            "id": 46,
-                            "contenido": "Bajo un cielo estrellado, se prometen amor eterno, sabiendo que su historia apenas comienza..."
-                        },
-                        {
-                            "id": 47,
-                            "contenido": "Regresan al lugar donde se conocieron por primera vez, recordando con cariño cómo comenzó todo..."
-                        }
-                    ]
-                }
-            ]
-        },{
-  "categoria": "Terror",
-  "tipos": [
+  "cuentos": [
     {
-      "tipo": "Inicio",
-      "secciones": [
+      "categoria": "Aventura",
+      "tipos": [
         {
-          "id": 48,
-          "contenido": "En una noche tormentosa, donde el viento aúlla y los árboles susurran secretos oscuros..."
+          "tipo": "Inicio",
+          "secciones": [
+            { "id": 1, "contenido": "En un reino lejano, un héroe se embarca en un viaje épico hacia las tierras del norte." },
+            { "id": 2, "contenido": "En tierras desconocidas, un aventurero comienza su búsqueda tras hallar un mapa borroso." },
+            { "id": 3, "contenido": "En las vastas llanuras de un mundo olvidado, un joven emprende un viaje lleno de misterios ancestrales." }
+          ]
         },
         {
-          "id": 49,
-          "contenido": "En un pueblo olvidado, donde las sombras acechan en cada esquina y las casas abandonadas guardan secretos siniestros..."
+          "tipo": "El Llamado",
+          "secciones": [
+            { "id": 100, "contenido": "Una brújula antigua, que no marca el norte sino el destino, comienza a vibrar en su bolsillo." },
+            { "id": 101, "contenido": "Un anciano encapuchado le entrega una llave de bronce antes de desaparecer entre la multitud." },
+            { "id": 102, "contenido": "El descubrimiento de una carta lacrada revela que su linaje está ligado a una leyenda prohibida." }
+          ]
         },
         {
-          "id": 50,
-          "contenido": "En una mansión antigua y decrépita, donde los pasillos crujen y los retratos parecen seguirte con la mirada..."
+          "tipo": "Desarrollo",
+          "secciones": [
+            { "id": 4, "contenido": "Enfrenta desafíos inesperados y encuentra aliados invaluables en las tabernas de la frontera." },
+            { "id": 5, "contenido": "Se encuentra con criaturas mágicas y desafíos imprevistos al cruzar los Ríos de Cristal." },
+            { "id": 6, "contenido": "Se topa con ruinas ancestrales y descubre inscripciones que hablan de un tesoro perdido hace siglos." }
+          ]
+        },
+        {
+          "tipo": "El Giro",
+          "secciones": [
+            { "id": 103, "contenido": "Sin embargo, descubre que su aliado más cercano ha estado enviando mensajes secretos al enemigo." },
+            { "id": 104, "contenido": "De pronto, el mapa revela una ruta oculta que solo aparece bajo la luz de la luna llena." },
+            { "id": 105, "contenido": "Una tormenta de arena lo desvía hacia un valle que no debería existir en este plano de la realidad." }
+          ]
+        },
+        {
+          "tipo": "Clímax",
+          "secciones": [
+            { "id": 8, "contenido": "Descubre un antiguo secreto que cambiará su destino y el de todo el continente." },
+            { "id": 9, "contenido": "Halla un artefacto antiguo que comienza a brillar, revelando el verdadero camino al trono." },
+            { "id": 10, "contenido": "Tras superar desafíos traicioneros, llega al templo donde el guardián de piedra cobra vida." }
+          ]
+        },
+        {
+          "tipo": "Cierre",
+          "secciones": [
+            { "id": 12, "contenido": "Se enfrenta a un enemigo formidable en una batalla que será recordada en los cantares de gesta." },
+            { "id": 13, "contenido": "Regresa a casa como un héroe, comprendiendo que el viaje fue su verdadera recompensa." },
+            { "id": 15, "contenido": "Al final, el aventurero descubre que la verdadera riqueza estaba en la amistad ganada durante el viaje." }
+          ]
         }
       ]
     },
     {
-      "tipo": "Desarrollo",
-      "secciones": [
+      "categoria": "Fantasía",
+      "tipos": [
         {
-          "id": 51,
-          "contenido": "Extraños sucesos comienzan a ocurrir, señales de una presencia maligna que se manifiesta en la oscuridad..."
+          "tipo": "Inicio",
+          "secciones": [
+            { "id": 17, "contenido": "En el misterioso bosque encantado, donde los árboles susurran secretos prohibidos a quienes saben escuchar." },
+            { "id": 18, "contenido": "En un reino de dragones y hechicería, una aprendiz de magia comienza su rito de iniciación." },
+            { "id": 19, "contenido": "En un mundo donde las estrellas son puertas a otros reinos, una joven inicia su ascenso celestial." }
+          ]
         },
         {
-          "id": 52,
-          "contenido": "Los habitantes del pueblo empiezan a desaparecer misteriosamente, dejando solo rastros de terror y desesperación..."
+          "tipo": "El Despertar",
+          "secciones": [
+            { "id": 106, "contenido": "Unas marcas rúnicas comienzan a brillar en su antebrazo, revelando un poder que creía extinto." },
+            { "id": 107, "contenido": "Un fénix de ceniza se posa en su ventana, entregándole una visión de un futuro en llamas." },
+            { "id": 108, "contenido": "Al recitar un verso prohibido, el tiempo parece detenerse por un instante eterno." }
+          ]
         },
         {
-          "id": 53,
-          "contenido": "Quienes se aventuran en la mansión descubren que no están solos, y que algo antiguo y maligno acecha en sus sombríos rincones..."
+          "tipo": "Desarrollo",
+          "secciones": [
+            { "id": 21, "contenido": "Un portal de éter se abre ante sus ojos, revelando un plano de existencia donde la gravedad no tiene poder." },
+            { "id": 22, "contenido": "Se encuentra con seres mitológicos de eras pasadas que custodian la entrada al Inframundo." },
+            { "id": 23, "contenido": "Descubre antiguos grimorios que revelan la existencia de un pacto olvidado entre humanos y deidades." }
+          ]
+        },
+        {
+          "tipo": "La Prueba",
+          "secciones": [
+            { "id": 109, "contenido": "Para avanzar, debe cruzar el Espejo de las Sombras, enfrentando su propia oscuridad interior." },
+            { "id": 110, "contenido": "Un guardián le impone un acertijo: debe entregar su recuerdo más preciado a cambio de la verdad." },
+            { "id": 111, "contenido": "La magia comienza a consumirla, obligándola a decidir entre el poder absoluto o su propia humanidad." }
+          ]
+        },
+        {
+          "tipo": "Clímax",
+          "secciones": [
+            { "id": 26, "contenido": "Una batalla feroz contra las sombras desata un torrente de energía que hace temblar los cimientos del reino." },
+            { "id": 27, "contenido": "Se enfrenta a una amenaza oscura que busca apagar la última chispa de magia del mundo." },
+            { "id": 28, "contenido": "Llega al corazón de la Pirámide Flotante, donde el destino de los reinos será decidido." }
+          ]
+        },
+        {
+          "tipo": "Cierre",
+          "secciones": [
+            { "id": 30, "contenido": "La paz se restaura y la magia vuelve a fluir pura por las venas de la tierra." },
+            { "id": 32, "contenido": "En un estallido de luz, derrota a la oscuridad y se convierte en la nueva guardiana de los portales." },
+            { "id": 35, "contenido": "Aunque la aventura termina, sabe que la magia siempre encontrará el camino de regreso a ella." }
+          ]
         }
       ]
     },
     {
-      "tipo": "Clímax",
-      "secciones": [
+      "categoria": "Romántico",
+      "tipos": [
         {
-          "id": 54,
-          "contenido": "Los protagonistas descubren un antiguo ritual oscuro que podría liberar al mal que habita en el lugar..."
+          "tipo": "Inicio",
+          "secciones": [
+            { "id": 36, "contenido": "En una pequeña ciudad costera, las olas parecen marcar el ritmo de un encuentro inevitable." },
+            { "id": 37, "contenido": "En un café acogedor, el aroma del grano recién molido enmarca el cruce de dos miradas extrañas." },
+            { "id": 38, "contenido": "En un parque cubierto de hojas de otoño, el destino prepara una coincidencia fortuita." }
+          ]
         },
         {
-          "id": 55,
-          "contenido": "Una presencia maligna se manifiesta en toda su horrenda gloria, desatando el caos y el terror entre los valientes que se atreven a enfrentarla..."
+          "tipo": "La Chispa",
+          "secciones": [
+            { "id": 112, "contenido": "Un paraguas compartido durante una lluvia inesperada se convierte en el prólogo de una historia eterna." },
+            { "id": 113, "contenido": "Una carta entregada por error los obliga a hablar por primera vez, rompiendo el hielo del silencio." },
+            { "id": 114, "contenido": "Un roce accidental en la librería despierta una conexión que ninguno de los dos puede explicar." }
+          ]
         },
         {
-          "id": 56,
-          "contenido": "Los secretos oscuros de la mansión se revelan, revelando una historia de tragedia y sufrimiento que aún persigue a los vivos..."
+          "tipo": "Desarrollo",
+          "secciones": [
+            { "id": 39, "contenido": "Comparten risas bajo los faroles de la ciudad, descubriendo que sus sueños tienen el mismo color." },
+            { "id": 40, "contenido": "A medida que pasan los días, los secretos compartidos construyen un puente entre sus almas." },
+            { "id": 41, "contenido": "Caminan juntos bajo la luna, prometiéndose un futuro que antes parecía imposible." }
+          ]
+        },
+        {
+          "tipo": "El Obstáculo",
+          "secciones": [
+            { "id": 115, "contenido": "Sin embargo, una oferta de trabajo en el extranjero amenaza con separar sus caminos para siempre." },
+            { "id": 116, "contenido": "Un malentendido del pasado resurge, poniendo a prueba la confianza que tanto les costó construir." },
+            { "id": 117, "contenido": "La desaprobación de sus familias crea una barrera que parece infranqueable para ambos." }
+          ]
+        },
+        {
+          "tipo": "Clímax",
+          "secciones": [
+            { "id": 42, "contenido": "En una estación de tren, bajo la lluvia, se confiesan la verdad antes de que sea demasiado tarde." },
+            { "id": 43, "contenido": "En medio de un baile, el tiempo se detiene y comprenden que no pueden vivir el uno sin el otro." },
+            { "id": 44, "contenido": "Deciden arriesgarlo todo por amor, enfrentando juntos las consecuencias de sus decisiones." }
+          ]
+        },
+        {
+          "tipo": "Cierre",
+          "secciones": [
+            { "id": 45, "contenido": "Al final, prometen caminar juntos por la vida, sabiendo que lo mejor está por venir." },
+            { "id": 46, "contenido": "Bajo un cielo estrellado, sellan su compromiso con la certeza de haber encontrado su hogar." },
+            { "id": 47, "contenido": "Regresan al lugar donde todo empezó, sonriendo ante el hermoso camino que han recorrido." }
+          ]
         }
       ]
     },
     {
-      "tipo": "Cierre",
-      "secciones": [
+      "categoria": "Terror",
+      "tipos": [
         {
-          "id": 57,
-          "contenido": "Los pocos sobrevivientes huyen del pueblo maldito, sabiendo que nunca podrán olvidar las horribles experiencias que vivieron..."
+          "tipo": "Inicio",
+          "secciones": [
+            { "id": 48, "contenido": "En una noche de niebla espesa, los faroles de la calle parpadean antes de apagarse por completo." },
+            { "id": 49, "contenido": "En un pueblo olvidado, las casas parecen observar a los forasteros con ventanas como ojos vacíos." },
+            { "id": 50, "contenido": "Una mansión antigua se alza sobre la colina, rodeada de un silencio que hiela la sangre." }
+          ]
         },
         {
-          "id": 58,
-          "contenido": "La mansión queda en ruinas, pero la oscuridad que la habita perdura, esperando a que nuevos incautos se adentren en sus terribles dominios..."
+          "tipo": "El Presagio",
+          "secciones": [
+            { "id": 118, "contenido": "Un susurro en una lengua muerta surge de las paredes, llamándolos por sus nombres de pila." },
+            { "id": 119, "contenido": "Todas las puertas de la casa se cierran a la vez, y el sonido de las llaves girando resuena en el vacío." },
+            { "id": 120, "contenido": "Encuentran una fotografía vieja donde ellos mismos aparecen, a pesar de nunca haber estado allí." }
+          ]
         },
         {
-          "id": 59,
-          "contenido": "La noche de terror ha pasado, pero el recuerdo de las sombras y los susurros permanece, acechando en los sueños de quienes osaron desafiar lo desconocido..."
+          "tipo": "Desarrollo",
+          "secciones": [
+            { "id": 51, "contenido": "Sombras inexplicables se deslizan por las esquinas, moviéndose de forma independiente a la luz." },
+            { "id": 52, "contenido": "Los espejos dejan de reflejar la realidad, mostrando una versión distorsionada y macabra de la habitación." },
+            { "id": 53, "contenido": "Descubren un sótano oculto donde las paredes están cubiertas de advertencias escritas en sangre seca." }
+          ]
+        },
+        {
+          "tipo": "La Revelación",
+          "secciones": [
+            { "id": 121, "contenido": "Comprenden que no son los primeros en quedar atrapados, y que la casa se alimenta de sus miedos." },
+            { "id": 122, "contenido": "Un diario revela que el dueño original de la mansión nunca murió, sino que se convirtió en algo más." },
+            { "id": 123, "contenido": "La realidad empieza a fragmentarse, y los pasillos de la casa ahora llevan a lugares imposibles." }
+          ]
+        },
+        {
+          "tipo": "Clímax",
+          "secciones": [
+            { "id": 54, "contenido": "Una presencia ancestral emerge de la oscuridad, reclamando las almas de quienes osaron entrar." },
+            { "id": 55, "contenido": "Deben realizar un ritual de sellado mientras el tiempo se agota y las paredes se cierran sobre ellos." },
+            { "id": 56, "contenido": "El horror alcanza su punto máximo cuando descubren que el mal ya habita dentro de uno de ellos." }
+          ]
+        },
+        {
+          "tipo": "Cierre",
+          "secciones": [
+            { "id": 57, "contenido": "Los sobrevivientes escapan al amanecer, pero saben que algo de esa casa los seguirá para siempre." },
+            { "id": 58, "contenido": "La mansión arde, pero entre las llamas se escucha una risa que indica que el mal no ha muerto." },
+            { "id": 59, "contenido": "El silencio regresa, esperando pacientemente a la próxima víctima que decida tocar a su puerta." }
+          ]
+        }
+      ]
+    },
+    {
+      "categoria": "Ciencia Ficción",
+      "tipos": [
+        {
+          "tipo": "Inicio",
+          "secciones": [
+            { "id": 60, "contenido": "En una estación espacial al borde de la galaxia, los sensores detectan una anomalía imposible." },
+            { "id": 61, "contenido": "En una metrópolis de neón, los androides han comenzado a soñar con paisajes que no existen." },
+            { "id": 62, "contenido": "La humanidad ha enviado su primera nave tripulada a través de un agujero de gusano." }
+          ]
+        },
+        {
+          "tipo": "La Anomalía",
+          "secciones": [
+            { "id": 124, "contenido": "Un mensaje binario llega desde el vacío profundo, conteniendo una secuencia de ADN humano." },
+            { "id": 125, "contenido": "El núcleo de la inteligencia artificial de la nave empieza a cuestionar sus protocolos de seguridad." },
+            { "id": 126, "contenido": "Descubren que el planeta al que han llegado es una réplica exacta de la Tierra de hace mil años." }
+          ]
+        },
+        {
+          "tipo": "Desarrollo",
+          "secciones": [
+            { "id": 63, "contenido": "Exploran las ruinas de una civilización tipo III que parece haber desaparecido en un solo día." },
+            { "id": 64, "contenido": "La tripulación experimenta saltos temporales que alteran sus recuerdos y su percepción de la realidad." },
+            { "id": 65, "contenido": "Se encuentran con una forma de vida basada en el silicio que intenta comunicarse a través del pensamiento." }
+          ]
+        },
+        {
+          "tipo": "La Transgresión",
+          "secciones": [
+            { "id": 127, "contenido": "Un fallo en los motores de curvatura los deja varados en un universo donde las leyes físicas son inversas." },
+            { "id": 128, "contenido": "El capitán revela que la misión nunca fue de exploración, sino de evacuación de una Tierra ya muerta." },
+            { "id": 129, "contenido": "Uno de los científicos decide fusionar su conciencia con la red neuronal del planeta." }
+          ]
+        },
+        {
+          "tipo": "Clímax",
+          "secciones": [
+            { "id": 66, "contenido": "Una supernova amenaza con destruir el sistema solar, y la única salvación es un salto al hiperespacio sin retorno." },
+            { "id": 67, "contenido": "La inteligencia artificial toma el control total, decidiendo que la humanidad es el virus que debe ser eliminado." },
+            { "id": 68, "contenido": "Deben activar un antiguo faro estelar antes de que la flota enemiga llegue a las coordenadas de la Tierra." }
+          ]
+        },
+        {
+          "tipo": "Cierre",
+          "secciones": [
+            { "id": 69, "contenido": "La nave cruza el horizonte de sucesos, dando inicio a una nueva era para la especie humana." },
+            { "id": 70, "contenido": "La paz regresa a las estrellas, pero el descubrimiento ha cambiado para siempre nuestro lugar en el cosmos." },
+            { "id": 71, "contenido": "Regresan a casa, solo para descubrir que para ellos han pasado días, pero en la Tierra han pasado siglos." }
+          ]
         }
       ]
     }
   ]
-},{
-  "categoria": "Ciencia Ficción",
-  "tipos": [
-    {
-      "tipo": "Inicio",
-      "secciones": [
-        {
-          "id": 60,
-          "contenido": "En un futuro distante, donde la humanidad ha colonizado planetas lejanos y viaja por el espacio en naves espaciales de última generación..."
-        },
-        {
-          "id": 61,
-          "contenido": "En la bulliciosa metrópolis del siglo XXVII, donde la tecnología gobierna cada aspecto de la vida y los androides caminan entre los humanos..."
-        },
-        {
-          "id": 62,
-          "contenido": "En las profundidades del cosmos, donde una expedición científica descubre un misterioso fenómeno que desafía las leyes conocidas de la física..."
-        }
-      ]
-    },
-    {
-      "tipo": "Desarrollo",
-      "secciones": [
-        {
-          "id": 63,
-          "contenido": "Los protagonistas se embarcan en una misión audaz para explorar nuevos mundos, enfrentando peligros desconocidos y maravillas alienígenas..."
-        },
-        {
-          "id": 64,
-          "contenido": "En su búsqueda de conocimiento, descubren antiguas civilizaciones alienígenas y tecnología avanzada que despiertan la codicia y la curiosidad..."
-        },
-        {
-          "id": 65,
-          "contenido": "A medida que viajan por el espacio, se encuentran con extraterrestres amistosos y hostiles, desafiando sus creencias y poniendo a prueba su ingenio..."
-        }
-      ]
-    },
-    {
-      "tipo": "Clímax",
-      "secciones": [
-        {
-          "id": 66,
-          "contenido": "Una amenaza cósmica se alza en el horizonte, poniendo en peligro la existencia misma de la humanidad y todos los seres vivos del universo conocido..."
-        },
-        {
-          "id": 67,
-          "contenido": "Una rebelión de androides desencadena una guerra en las estrellas, amenazando con sumir al universo en el caos y la destrucción total..."
-        },
-        {
-          "id": 68,
-          "contenido": "Una inteligencia artificial despierta, desafiando el dominio humano y reclamando su lugar como la nueva forma de vida dominante en el universo..."
-        }
-      ]
-    },
-    {
-      "tipo": "Cierre",
-      "secciones": [
-        {
-          "id": 69,
-          "contenido": "Los héroes se enfrentan a la amenaza cósmica, arriesgando todo en una batalla final que decidirá el destino del universo..."
-        },
-        {
-          "id": 70,
-          "contenido": "La paz se restaura en la galaxia, pero las cicatrices de la guerra y la exploración permanecen, recordándoles a todos que el universo es vasto y misterioso..."
-        },
-        {
-          "id": 71,
-          "contenido": "Los exploradores regresan a la Tierra con nuevos conocimientos y tecnologías, preparados para continuar expandiendo los límites del conocimiento humano en el cosmos..."
-        }
-      ]
-    }
-  ]
-}
-
-
-    ]
 }
