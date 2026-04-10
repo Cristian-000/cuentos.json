@@ -195,7 +195,139 @@
     }
   ]
 }
- ,
+ , 
+  {
+    "categoria": "Terror Psicológico",
+    "tipos": [
+      {
+        "tipo": "Inicio",
+        "secciones": [
+          { "id": 2400, "contenido": "Las fotografías de su infancia no habían cambiado, pero las personas en ellas comenzaron a mirarlo de manera diferente con el paso de los días." },
+          { "id": 2401, "contenido": "El reflejo en el espejo siempre tardaba un milisegundo adicional en imitar sus movimientos, un detalle que ignoró hasta que el reflejo decidió sonreír primero." },
+          { "id": 2402, "contenido": "Se mudó a la casa aislada para encontrar paz, pero las paredes parecían respirar durante la madrugada, exhalando un frío que se colaba bajo la piel y helaba la sangre." },
+          { "id": 2403, "contenido": "Las voces no gritaban ni amenazaban; simplemente susurraban sus peores inseguridades con la misma voz de su madre, repitiéndolas hasta que sonaban a una verdad absoluta." },
+          { "id": 2404, "contenido": "Cada noche despertaba exactamente a la misma hora, con la certeza paralizante de que alguien estaba sentado al borde de su cama, esperando pacientemente en la oscuridad." }
+        ]
+      },
+      {
+        "tipo": "La Paranoia",
+        "secciones": [
+          { "id": 2500, "contenido": "Comenzó a perder horas del día; al principio eran minutos frente al reloj, luego tardes enteras donde su cuerpo actuaba sin que su mente estuviera presente." },
+          { "id": 2501, "contenido": "Encontró notas escondidas por toda la casa, escritas con su propia caligrafía apresurada, advirtiéndole desesperadamente que no confiara en sus recuerdos más preciados." },
+          { "id": 2502, "contenido": "El psiquiatra le aseguró que las alucinaciones cederían con el nuevo medicamento, pero las sombras en la esquina de la habitación se rieron en silencio al escuchar el diagnóstico." },
+          { "id": 2503, "contenido": "Empezó a dudar de si la vida que recordaba antes del trágico accidente realmente había sucedido, o si era una mentira fabricada meticulosamente para mantenerlo dócil." },
+          { "id": 2504, "contenido": "Las puertas de su apartamento, cerradas con doble llave desde adentro cada noche, amanecían abiertas de par en par, invitando a entrar a lo que sea que aguardaba en el pasillo." }
+        ]
+      },
+      {
+        "tipo": "Desarrollo",
+        "secciones": [
+          { "id": 2600, "contenido": "Su mente se convirtió en un laberinto asfixiante, donde cada pasillo y recuerdo lo devolvía a la culpa reprimida de un error atroz que creía haber enterrado hace años." },
+          { "id": 2601, "contenido": "Quienes le rodeaban empezaron a actuar como actores cansados que habían olvidado sus líneas, repitiendo frases vacías con miradas muertas y carentes de humanidad." },
+          { "id": 2602, "contenido": "La línea entre la vigilia y la pesadilla se desdibujó por completo; ya no sabía si estaba soñando que corría por su vida, o si su supuesta realidad era el verdadero encierro." },
+          { "id": 2603, "contenido": "Intentó aislarse tapando ventanas y atrancando puertas, pero descubrió con horror puro que el terror no venía del exterior, sino de las grietas oscuras de su propia psique." },
+          { "id": 2604, "contenido": "Los objetos cotidianos de la casa cambiaban de lugar sutilmente, como si el entorno mismo estuviera diseñando una trampa psicológica para agotar hasta la última gota de su cordura." }
+        ]
+      },
+      {
+        "tipo": "El Giro",
+        "secciones": [
+          { "id": 2700, "contenido": "Al arrancar el papel tapiz en un ataque de desesperación, no encontró ladrillos, sino cientos de nombres tallados con uñas en la madera, y el suyo era el último de la lista." },
+          { "id": 2701, "contenido": "La voz intrusa en su cabeza finalmente tomó el control total del cuerpo, obligándolo a mirar como un prisionero mientras sus propias manos hacían exactamente lo que siempre temió hacer." },
+          { "id": 2702, "contenido": "Comprendió, en un instante de lucidez aterradora y desgarradora, que él nunca había sido la víctima de esta historia, sino el monstruo primigenio del que todos intentaban huir." },
+          { "id": 2703, "contenido": "El espejo del pasillo finalmente se quebró sin que nadie lo tocara, no por un golpe físico, sino porque lo que habitaba al otro lado decidió que ya era el momento de salir y tomar su lugar." },
+          { "id": 2704, "contenido": "Frente a la verdad desnuda de su propia mente fragmentada, descubrió que los 'fantasmas' que lo atormentaban eran en realidad sus personalidades fracturadas luchando por el dominio." }
+        ]
+      },
+      {
+        "tipo": "Clímax",
+        "secciones": [
+          { "id": 2800, "contenido": "En la soledad opresiva de la habitación vacía, la confrontación final no requirió armas ni gritos, solo el silencio ensordecedor de su propia mente fragmentándose en pedazos irreparables." },
+          { "id": 2801, "contenido": "Tuvo que arrancar, literalmente, los recuerdos impostores de su cabeza, soportando el agónico dolor emocional de borrar para siempre a las personas que creía amar con el alma." },
+          { "id": 2802, "contenido": "Frente al abismo insondable de la locura total, dio un paso voluntario hacia adelante, abrazando la oscuridad perpetua para evitar que esta devorara al mundo real." },
+          { "id": 2803, "contenido": "La entidad no lo atacó con fuerza bruta; simplemente descorrió el velo de la realidad para mostrarle el infinito y absurdo vacío de la existencia, esperando que él mismo se destruyera." },
+          { "id": 2804, "contenido": "El alarido desgarrador que escapó de sus labios ensangrentados no fue de pánico, sino de una absoluta y mórbida liberación al decidir soltar voluntariamente el último hilo de su cordura." }
+        ]
+      },
+      {
+        "tipo": "Cierre",
+        "secciones": [
+          { "id": 2900, "contenido": "Ahora camina por las calles grises con una sonrisa serena y vacía, ignorando a la sombra putrefacta que camina a su lado y que lleva su mismo rostro." },
+          { "id": 2901, "contenido": "La casa quedó sumida en un silencio sepulcral; la policía nunca resolvió qué ocurrió allí adentro, pero los vecinos bajan la mirada y apresuran el paso al anochecer." },
+          { "id": 2902, "contenido": "En la sala de confinamiento del sanatorio, acaricia la pared acolchada y murmura canciones de cuna rotas, finalmente en una paz perturbadora dentro de su propio universo fabricado." },
+          { "id": 2903, "contenido": "El mundo exterior siguió girando con ruidosa indiferencia, ajeno por completo a la apocalíptica batalla silenciosa que se perdió definitivamente en la mente de un solo hombre." },
+          { "id": 2904, "contenido": "Todo parece haber vuelto a la normalidad rutinaria, pero en el fondo de sus ojos, una chispa fría, antigua y extraña delata que quien regresó esa noche no fue él." }
+        ]
+      }
+    ]
+  },
+  {
+    "categoria": "Realismo Mágico",
+    "tipos": [
+      {
+        "tipo": "Inicio",
+        "secciones": [
+          { "id": 3000, "contenido": "En el pueblo olvidado por los mapas, las lágrimas de la viuda no caían al suelo, sino que flotaban hacia el cielo, creando nubes espesas que llevaban lloviendo sal durante tres semanas." },
+          { "id": 3001, "contenido": "El abuelo decidió plantar sus recuerdos de juventud en el patio trasero antes de perder la memoria; a la mañana siguiente, había crecido un roble con hojas que susurraban viejas canciones de cuna." },
+          { "id": 3002, "contenido": "Aquel martes de agosto, el tiempo decidió detenerse de forma caprichosa y exclusiva en la cocina de la vieja casa, conservando el calor y el aroma del café recién hecho durante quince años." },
+          { "id": 3003, "contenido": "Nació con la extraña e incurable condición de exhalar mariposas de ceniza cada vez que sentía una profunda tristeza, obligándola a vivir una vida de alegrías forzadas para no incendiar la aldea." },
+          { "id": 3004, "contenido": "Las cartas de amor que por cobardía nunca se atrevió a enviar comenzaron a brotar como enredaderas de papel bajo la puerta de su habitación, buscando desesperadamente a su destinatario." }
+        ]
+      },
+      {
+        "tipo": "Lo Extraordinario",
+        "secciones": [
+          { "id": 3100, "contenido": "Los pescadores descubrieron que el río del valle ya no llevaba agua dulce, sino las promesas rotas de los habitantes, fluyendo espesas, doradas y murmurantes hacia el mar abierto." },
+          { "id": 3101, "contenido": "El anciano relojero del pueblo aprendió el delicado oficio de reparar los amores rotos, ajustando pequeños engranajes de bronce invisibles directamente en el pecho de los abandonados." },
+          { "id": 3102, "contenido": "Las palabras no dichas adquirieron un peso físico insoportable; pronto, la casa familiar se llenó tanto de secretos callados que el techo comenzó a curvarse hacia abajo bajo su presión." },
+          { "id": 3103, "contenido": "Un misterioso vendedor ambulante llegó en una carreta azul ofreciendo frascos con los suspiros de amores pasados, garantizando la melancolía perfecta para las largas tardes de lluvia." },
+          { "id": 3104, "contenido": "Las sombras de los niños tristes se desprendieron de sus dueños para ir a jugar juntas en la plaza al caer la tarde, negándose rotundamente a volver a sus pies hasta la madrugada." }
+        ]
+      },
+      {
+        "tipo": "Desarrollo",
+        "secciones": [
+          { "id": 3200, "contenido": "A medida que el árbol de los recuerdos crecía, los habitantes comenzaron a robar sus frutos durante la noche, experimentando la vibrante juventud del abuelo con una claridad que los volvió adictos." },
+          { "id": 3201, "contenido": "La persistente lluvia de sal comenzó a corroer no solo los techos de chapa del mercado, sino también la amargura endémica de la gente, dejándolos en un estado de peligrosa y letárgica docilidad." },
+          { "id": 3202, "contenido": "El peso físico de los remordimientos derribó finalmente las paredes maestras de la hacienda mayor, liberando verdades centenarias que revolotearon como pájaros asustados por todo el vecindario." },
+          { "id": 3203, "contenido": "Aquellos valientes que bebieron de los frascos de melancolía del mercader olvidaron para siempre cómo caminar hacia el futuro, perdiéndose felices en laberintos de nostalgia inagotable." },
+          { "id": 3204, "contenido": "Para detener la asfixiante invasión de enredaderas de papel perfumado, tuvo que sentarse en el suelo y leer en voz alta, llorando, cada uno de sus miedos, transformándolos en orquídeas efímeras." }
+        ]
+      },
+      {
+        "tipo": "El Giro",
+        "secciones": [
+          { "id": 3300, "contenido": "Comprendieron demasiado tarde que el relojero ciego no reparaba las almas, sino que las sincronizaba meticulosamente con el latido del fin del mundo, apresurando el apocalipsis con cada tic-tac." },
+          { "id": 3301, "contenido": "La viuda, en realidad, no estaba llorando por su difunto esposo, sino por el hombre vivo al que la magia antigua de su familia había condenado a vivir encerrado dentro de los espejos del pueblo." },
+          { "id": 3302, "contenido": "Los recuerdos destilados en los frutos del roble no pertenecían al abuelo amigable, sino a las vidas de los fundadores originales, revelando una masacre sangrienta que el pueblo había pactado olvidar." },
+          { "id": 3303, "contenido": "Descubrió a través de un viejo grimorio que las mariposas de ceniza no eran una maldición personal, sino la única forma fisiológica en que su cuerpo podía mantener dormido al volcán bajo el pueblo." },
+          { "id": 3304, "contenido": "Las sombras infantiles y rebeldes no estaban jugando a las escondidas; estaban cavando furiosamente trincheras invisibles en la tierra para proteger al valle de una guerra que el gobierno afirmaba no existir." }
+        ]
+      },
+      {
+        "tipo": "Clímax",
+        "secciones": [
+          { "id": 3400, "contenido": "En medio del violento huracán de promesas olvidadas que desbordó el cauce, tuvo que sumergirse en el río de oro espeso para pescar a mano limpia el único juramento capaz de salvar la memoria del valle." },
+          { "id": 3401, "contenido": "Cuando el último corazón reparado por el relojero dio su estrepitosa campanada final, el tejido del tiempo se quebró con un sonido de cristal roto, dejando a la humanidad entera atrapada en un ocaso perpetuo." },
+          { "id": 3402, "contenido": "Para detener la agónica tormenta de sal y lágrimas, caminó descalzo hasta el centro de la plaza y le ofreció a la viuda la única y desgarradora verdad que dolía infinitamente más que su llanto mágico." },
+          { "id": 3403, "contenido": "Con un último suspiro profundo y los brazos abiertos hacia el cielo, dejó que todas las mariposas de ceniza de su vida escaparan de su pecho a la vez, envolviéndose en llamas gélidas que purificaron la tierra maldita." },
+          { "id": 3404, "contenido": "Los espejos de todas las casas estallaron al unísono, liberando a los ecos atrapados durante siglos, en una cacofonía de cristales rotos y abrazos fantasmales donde la muerte y la vida perdieron sus antiguos límites." }
+        ]
+      },
+      {
+        "tipo": "Cierre",
+        "secciones": [
+          { "id": 3500, "contenido": "El pueblo colonial desapareció sin dejar rastro de los mapas de cartografía moderna; ahora los viajeros solo pueden llegar a sus calles de adoquines si siguen ciegamente el rastro de las nubes que huelen a nostalgia." },
+          { "id": 3501, "contenido": "El atardecer inamovible trajo al valle una paz poética y melancólica; la gente dejó de ahorrar para el mañana, sabiendo que el sol gigante y rojo siempre rozaría el horizonte occidental sin llegar a hundirse." },
+          { "id": 3502, "contenido": "Justo en el lugar exacto donde antes hubo fuego frío y dolor de ceniza, brotó de la tierra yerma un inmenso prado de flores translúcidas que laten suavemente al ritmo de los corazones vivos." },
+          { "id": 3503, "contenido": "Aunque las calles de tierra regresaron a su pausada rutina, las pesadas puertas de madera de las casas mantienen sus cerrojos quitados eternamente, por si los antiguos secretos sienten frío y deciden volver a entrar." },
+          { "id": 3504, "contenido": "Y así, la magia deslumbrante se convirtió en una rutina doméstica tan predecible como barrer la vereda de hojas secas, dejando a los habitantes deseando, en su fuero más íntimo, la bendición de un día ordinario." }
+        ]
+      }
+    ]
+  }
+
+,
 
     {
       "categoria": "Romántico",
