@@ -65,6 +65,72 @@
         }
       ]
     },
+    {
+  "categoria": "Misterio",
+  "tipos": [
+    {
+      "tipo": "Inicio",
+      "secciones": [
+        { "id": 1200, "contenido": "La niebla envolvía la vieja mansión como si intentara ocultarla, pero la luz en la ventana del tercer piso indicaba que alguien, o algo, seguía allí." },
+        { "id": 1201, "contenido": "El reloj marcaba la medianoche exacta cuando sonó el teléfono; al levantar el auricular, solo se escuchó una respiración agitada y un código incomprensible." },
+        { "id": 1202, "contenido": "Nadie en el pueblo quería hablar del incidente de hace diez años, hasta que una carta sin remitente reabrió heridas que todos creían cerradas." },
+        { "id": 1203, "contenido": "La escena estaba intacta, casi demasiado perfecta, como si el culpable hubiera querido dejar una obra de arte en lugar de un crimen." },
+        { "id": 1204, "contenido": "El detective había prometido que este sería su último caso, pero el nombre en el expediente sobre su escritorio lo obligó a cambiar de opinión." }
+      ]
+    },
+    {
+      "tipo": "El Enigma",
+      "secciones": [
+        { "id": 1300, "contenido": "Las piezas del rompecabezas no encajaban; cada pista descubierta parecía contradecir directamente a la anterior." },
+        { "id": 1301, "contenido": "Un símbolo extraño, tallado apresuradamente en la madera, fue el primer indicio de que esto no era un simple accidente." },
+        { "id": 1302, "contenido": "Los testigos describieron a una persona que no podía existir, alguien que había fallecido oficialmente hacía más de cinco años." },
+        { "id": 1303, "contenido": "En el fondo del cajón secreto encontró un diario, pero las páginas correspondientes a la semana del suceso habían sido arrancadas con precisión." },
+        { "id": 1304, "contenido": "La coartada era sólida, incuestionable, lo cual solo aumentaba la certeza de que estaban interrogando a la persona equivocada." }
+      ]
+    },
+    {
+      "tipo": "Desarrollo",
+      "secciones": [
+        { "id": 1400, "contenido": "Cada pregunta formulada parecía levantar un nuevo muro de silencio; la gente del lugar protegía a alguien, o le tenían demasiado miedo." },
+        { "id": 1401, "contenido": "La investigación lo llevó a los archivos subterráneos de la ciudad, donde el polvo guardaba secretos que muchos matarían por mantener ocultos." },
+        { "id": 1402, "contenido": "A medida que se acercaba a la verdad, comenzó a notar que alguien seguía sus pasos de cerca, borrando pruebas justo antes de que él llegara." },
+        { "id": 1403, "contenido": "Las conexiones se volvieron más oscuras, enredando a figuras de poder que no dudarían en destruir su carrera para silenciarlo." },
+        { "id": 1404, "contenido": "Una alianza inesperada con un viejo rival se convirtió en su única opción para desentrañar la red de mentiras." }
+      ]
+    },
+    {
+      "tipo": "El Giro",
+      "secciones": [
+        { "id": 1500, "contenido": "La pista definitiva no apuntaba hacia un extraño, sino hacia alguien que había estado colaborando en la investigación desde el primer día." },
+        { "id": 1501, "contenido": "Descubrió que la víctima nunca existió realmente; era una identidad fabricada para encubrir un robo a escala internacional." },
+        { "id": 1502, "contenido": "El mensaje oculto finalmente fue descifrado, revelando que el próximo objetivo del asesino era el propio investigador." },
+        { "id": 1503, "contenido": "La evidencia clave había sido manipulada, y al limpiar la grabación, la voz que daba las órdenes resultó ser dolorosamente familiar." },
+        { "id": 1504, "contenido": "Lo que parecía un crimen pasional resultó ser solo la punta del iceberg de una conspiración que llevaba décadas operando en las sombras." }
+      ]
+    },
+    {
+      "tipo": "Clímax",
+      "secciones": [
+        { "id": 1600, "contenido": "Acorralado en la azotea del edificio abandonado, no había más opciones; era el momento de enfrentar al cerebro detrás de todo." },
+        { "id": 1601, "contenido": "La confesión llegó entre lágrimas y gritos, desmoronando la coartada perfecta y revelando la monstruosa verdad." },
+        { "id": 1602, "contenido": "Con un arma apuntándole al pecho y el reloj en contra, tuvo que confiar en su instinto para desactivar el peligro antes de que fuera tarde." },
+        { "id": 1603, "contenido": "Las sombras del callejón ocultaban al culpable, pero un relámpago iluminó el rostro que jamás esperó ver apretando el gatillo." },
+        { "id": 1604, "contenido": "En la oscuridad del sótano, encontró la prueba final, pero el sonido de la puerta cerrándose con llave le advirtió que no estaba solo." }
+      ]
+    },
+    {
+      "tipo": "Cierre",
+      "secciones": [
+        { "id": 1700, "contenido": "El caso fue cerrado y los titulares llenaron los periódicos, pero en el fondo sabía que algunas preguntas jamás tendrían respuesta." },
+        { "id": 1701, "contenido": "Observó cómo se llevaban al culpable esposado; la justicia se había cumplido, pero el precio pagado fue demasiado alto." },
+        { "id": 1702, "contenido": "Dejó su placa sobre el escritorio y salió a la calle bajo la lluvia, sintiendo que por primera vez en meses podía respirar con tranquilidad." },
+        { "id": 1703, "contenido": "El misterio se resolvió para el mundo, pero él guardó en su bolsillo la única prueba de que el verdadero autor intelectual seguía libre." },
+        { "id": 1704, "contenido": "La ciudad recuperó su aparente calma, ignorando que bajo la superficie, nuevos secretos ya empezaban a tejerse en la oscuridad." }
+      ]
+    }
+  ]
+}
+, 
 
     {
       "categoria": "Romántico",
