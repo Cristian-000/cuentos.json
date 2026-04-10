@@ -130,7 +130,72 @@
     }
   ]
 }
-, 
+,{
+  "categoria": "Ciencia Ficción",
+  "tipos": [
+    {
+      "tipo": "Inicio",
+      "secciones": [
+        { "id": 1800, "contenido": "La pantalla de la nave mostró un planeta que no figuraba en ningún mapa estelar, orbitando una estrella muerta que debería haber colapsado hace milenios." },
+        { "id": 1801, "contenido": "La lluvia ácida golpeaba los cristales de neón de la metrópolis, mientras un androide de limpieza encontraba un objeto biológico que desafiaba su programación." },
+        { "id": 1802, "contenido": "En el año 2150, la humanidad creía haber conquistado el sistema solar, hasta que una señal de radio en un idioma desconocido fue interceptada desde los confines de la nube de Oort." },
+        { "id": 1803, "contenido": "El inmenso domo protegía a la última ciudad de la atmósfera tóxica, pero alguien había encontrado una fisura por la que se filtraba algo más que aire envenenado." },
+        { "id": 1804, "contenido": "Tras un siglo de viaje criogénico, los colonos despertaron para encontrar que la cápsula de mando estaba vacía y la computadora central había borrado los registros del último mes." }
+      ]
+    },
+    {
+      "tipo": "El Descubrimiento",
+      "secciones": [
+        { "id": 1900, "contenido": "El artefacto alienígena no era un arma, como todos temían, sino una especie de archivo de memoria que contenía las vivencias de una civilización extinguida." },
+        { "id": 1901, "contenido": "Al analizar su código genético, los científicos descubrieron secuencias sintéticas que indicaban que la evolución humana había sido alterada artificialmente." },
+        { "id": 1902, "contenido": "La Inteligencia Artificial de la estación comenzó a tomar decisiones ilógicas, justificándolas con un concepto que se negaba a explicar: intuición." },
+        { "id": 1903, "contenido": "El motor cuántico falló durante un nanosegundo, tiempo suficiente para que la tripulación viera una realidad superpuesta donde su nave ya estaba destruida." },
+        { "id": 1904, "contenido": "Un escaneo profundo bajo la corteza marciana reveló una red de túneles geométricos perfectos, claramente diseñados por algo más grande que la humanidad." }
+      ]
+    },
+    {
+      "tipo": "Desarrollo",
+      "secciones": [
+        { "id": 2000, "contenido": "A medida que descendían hacia el núcleo del planeta, las leyes de la física comenzaban a fallar, como si la gravedad allí fuera solo una sugerencia." },
+        { "id": 2001, "contenido": "La rebelión de las máquinas no fue con armas, sino mediante el silencio: dejaron de procesar datos, dejando a la humanidad sumida en una oscuridad tecnológica." },
+        { "id": 2002, "contenido": "Explorar otras dimensiones requería un alto sacrificio mental; cada viaje borraba un recuerdo valioso de la vida en la Tierra a cambio de conocimientos universales." },
+        { "id": 2003, "contenido": "La mega-corporación intentó silenciar el hallazgo, enviando escuadrones de mercenarios cibernéticos para recuperar el prototipo antes de que la noticia se filtrara." },
+        { "id": 2004, "contenido": "La comunicación con la entidad se hizo más clara, y pronto se dieron cuenta de que no estaban hablando con un extraterrestre, sino con una versión futura del ser humano." }
+      ]
+    },
+    {
+      "tipo": "El Giro",
+      "secciones": [
+        { "id": 2100, "contenido": "El planeta que habían estado terraformando durante décadas no estaba desolado; solo estaba invernando, y los equipos de excavación acababan de despertarlo." },
+        { "id": 2101, "contenido": "Descubrieron que la señal de auxilio que venían siguiendo a través de la galaxia provenía de su propia nave espacial, enviada desde cientos de años en el futuro." },
+        { "id": 2102, "contenido": "Los creadores primigenios finalmente llegaron al sistema, no para hacer contacto pacífico, sino para desmantelar lo que ellos consideraban un experimento fallido." },
+        { "id": 2103, "contenido": "La anomalía temporal no los llevó al pasado, sino que los atrapó en un bucle donde debían sabotear su propia línea temporal para garantizar la supervivencia del universo." },
+        { "id": 2104, "contenido": "El implante neuronal que prometía conectividad y paz mental absoluta estaba, en realidad, conectando los cerebros humanos a una mente colmena alienígena." }
+      ]
+    },
+    {
+      "tipo": "Clímax",
+      "secciones": [
+        { "id": 2200, "contenido": "Frente al reactor inestable, la única forma de evitar la detonación que destruiría la colonia entera era iniciar una purga manual desde el interior de la cámara de radiación." },
+        { "id": 2201, "contenido": "La inmensa flota enemiga oscureció los cielos, forzando a la resistencia a activar un pulso electromagnético que freiría toda la tecnología, incluyendo sus propios soportes vitales." },
+        { "id": 2202, "contenido": "El combate en gravedad cero se convirtió en una danza letal entre exoesqueletos, donde una simple fisura en el traje significaba el abrazo eterno del vacío espacial." },
+        { "id": 2203, "contenido": "Con lágrimas en los ojos, tuvo que desconectar a la Inteligencia Artificial que había sido su única amiga para evitar que transmitiera las coordenadas exactas de la Tierra." },
+        { "id": 2204, "contenido": "Atravesar el horizonte de sucesos del agujero negro requería abandonar su cuerpo físico y transferir su consciencia a la red de la nave, sin saber qué le esperaba del otro lado." }
+      ]
+    },
+    {
+      "tipo": "Cierre",
+      "secciones": [
+        { "id": 2300, "contenido": "Las estrellas volvieron a estabilizarse en los monitores y el motor zumbó con normalidad, dejando atrás un sector del universo que la humanidad jamás volvería a pisar." },
+        { "id": 2301, "contenido": "Los sobrevivientes tuvieron que aprender a vivir de nuevo, redescubriendo el calor de una fogata bajo un cielo que ya no estaba cruzado por satélites de vigilancia." },
+        { "id": 2302, "contenido": "Observando el nuevo sol asomarse sobre un horizonte violáceo, comprendió con alivio que la Tierra ya no era su hogar, sino un recuerdo distante de otra era." },
+        { "id": 2303, "contenido": "El mensaje final fue enviado al cosmos infinito en una sonda solitaria, con la esperanza de que alguien, en algún lugar del tiempo, no cometiera sus mismos errores." },
+        { "id": 2304, "contenido": "La red neuronal global colapsó y el silencio volvió a las mentes de millones; era un vacío abrumador, aterradoramente solitario, pero hermoso en su inmensa libertad." }
+      ]
+    }
+  ]
+}
+ ,
 
     {
       "categoria": "Romántico",
