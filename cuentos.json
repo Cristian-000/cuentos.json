@@ -1,398 +1,519 @@
 {
   "cuentos": [
     {
-      "categoria": "Aventura",
+      "categoria": "Misterio Gótico",
       "tipos": [
         {
-          "tipo": "Inicio",
+          "tipo": "El Presagio",
           "secciones": [
-            { "id": 1, "contenido": "En un reino donde los mapas terminaban en bordes en blanco, alguien creció escuchando historias de tierras que nadie había logrado regresar para describir. Cada noche, mirando el horizonte, sentía que su vida no pertenecía a ese lugar." },
-            { "id": 2, "contenido": "El puerto olía a sal, madera húmeda y despedidas. Entre barcos que partían hacia destinos inciertos, una figura sostenía un objeto heredado que parecía más antiguo que cualquier historia conocida." },
-            { "id": 3, "contenido": "En las montañas del norte, donde el viento aullaba como si guardara secretos, una decisión silenciosa cambió el rumbo de una vida para siempre." },
-            { "id": 4, "contenido": "La rutina de la aldea se rompió el día en que algo cayó del cielo, dejando una marca imposible de ignorar en la tierra… y en quien lo encontró." },
-            { "id": 5, "contenido": "Entre calles polvorientas y miradas indiferentes, alguien comenzó a notar pequeños detalles que no encajaban, como si el mundo ocultara algo justo fuera de la vista." }
+            { "id": 1001, "contenido": "La carta llegó sin remitente, sellada con una cera negra que olía a tierra mojada y cenizas de un fuego extinto hace un siglo. Al tocarla, el papel pareció latir." },
+            { "id": 1002, "contenido": "El reloj de péndulo del abuelo llevaba décadas detenido a las tres y cuarto; esa noche, sin que nadie lo tocara, dio su primera campanada sorda y hueca." },
+            { "id": 1003, "contenido": "La bruma del puerto no se disipaba con el sol, sino que parecía tejer formas humanas altas y delgadas que observaban en silencio a los forasteros desde el malecón." }
           ]
         },
         {
           "tipo": "El Llamado",
           "secciones": [
-            { "id": 100, "contenido": "Una reliquia olvidada comenzó a emitir un leve pulso, casi imperceptible, como si reaccionara a su cercanía… como si lo reconociera." },
-            { "id": 101, "contenido": "Un anciano de mirada cansada se le acercó solo para susurrarle una advertencia: “Si empiezas este camino, no habrá regreso.” Luego desapareció entre la multitud." },
-            { "id": 102, "contenido": "Dentro de un viejo cofre, encontró un mapa incompleto. Lo inquietante no era su contenido, sino que parecía haber sido dibujado pensando específicamente en él." },
-            { "id": 103, "contenido": "Los sueños comenzaron a repetirse: un lugar desconocido, una voz llamándolo por su nombre y una sensación de urgencia que no desaparecía al despertar." },
-            { "id": 104, "contenido": "Un mensaje oculto en un objeto cotidiano reveló algo perturbador: su historia no era tan común como siempre creyó." }
+            { "id": 1101, "contenido": "Alguien deslizó bajo su puerta una fotografía Polaroid donde él aparecía durmiendo la noche anterior, con una sombra ajena sentada plácidamente a los pies de su cama." },
+            { "id": 1102, "contenido": "La melodía del viejo gramófono se distorsionó hasta convertirse en una voz gutural que susurró su nombre exacto y una dirección en las ruinas del norte, entre los riscos." },
+            { "id": 1103, "contenido": "El reflejo en el escaparate de la tienda de antigüedades le devolvió la mirada un segundo después de que él hubiera girado el rostro, sonriéndole de una manera grotesca." }
           ]
         },
         {
-          "tipo": "Desarrollo",
+          "tipo": "La Travesía",
           "secciones": [
-            { "id": 200, "contenido": "El camino pronto dejó de ser una elección y se convirtió en una prueba constante. Cada decisión traía consecuencias, y no todas eran fáciles de aceptar." },
-            { "id": 201, "contenido": "En tabernas olvidadas y senderos peligrosos, encontró aliados que ofrecían ayuda… aunque en sus miradas se escondían historias no contadas." },
-            { "id": 202, "contenido": "Las pistas aparecían como fragmentos de algo más grande, una verdad que parecía armarse lentamente frente a sus ojos." },
-            { "id": 203, "contenido": "A medida que avanzaba, el mundo parecía reaccionar a su presencia, como si su viaje estuviera alterando algo más profundo." },
-            { "id": 204, "contenido": "El cansancio, la duda y el peligro comenzaron a pesar, pero algo dentro de él le impedía detenerse." }
+            { "id": 1201, "contenido": "El tren nocturno avanzaba sin hacer ruido sobre rieles oxidados, atravesando un bosque de abetos negros que parecían inclinarse para susurrar contra los cristales empañados." },
+            { "id": 1202, "contenido": "Navegaron por un canal de aguas oscuras y espesas, guiados únicamente por faroles verdes que encendía una barquera sin rostro envuelta en harapos victorianos." },
+            { "id": 1203, "contenido": "Caminó por largos pasillos de mármol frío que se reconfiguraban a sus espaldas; cada giro a la izquierda lo adentraba más y más en el vientre asfixiante de la montaña." }
+          ]
+        },
+        {
+          "tipo": "El Umbral",
+          "secciones": [
+            { "id": 1301, "contenido": "Frente a la pesada puerta de hierro forjado, descubrió que la cerradura no requería una llave de metal, sino una sola gota de sangre y un arrepentimiento pronunciado en voz alta." },
+            { "id": 1302, "contenido": "La entrada a la cripta subterránea estaba flanqueada por dos gárgolas de obsidiana cruda, cuyos ojos tallados seguían los movimientos de su linterna temblorosa." },
+            { "id": 1303, "contenido": "Cruzó el arco de piedra caliza y, de inmediato, el sonido estridente de la tormenta exterior se apagó por completo, sustituido por el latido rítmico de la propia mansión." }
+          ]
+        },
+        {
+          "tipo": "El Hallazgo",
+          "secciones": [
+            { "id": 1401, "contenido": "Sobre el altar cubierto de telarañas descansaba un diario con hojas intactas; al abrirlo, encontró relatada, con su propia caligrafía apresurada, su trágica muerte de mañana." },
+            { "id": 1402, "contenido": "Bajo las tablas podridas del suelo, desenterró un relicario de plata ennegrecida que contenía el mechón de pelo rubio de un niño que aún no había nacido." },
+            { "id": 1403, "contenido": "Entre los frascos disecados del boticario ciego, encontró una pequeña botella sellada, etiquetada con su fecha de nacimiento y llena hasta el borde con sus propias lágrimas de la infancia." }
+          ]
+        },
+        {
+          "tipo": "La Duda",
+          "secciones": [
+            { "id": 1501, "contenido": "El guía, hasta entonces taciturno, le sonrió mostrando demasiados dientes y confesó, en un susurro macabro, que el laberinto no estaba diseñado para esconder algo, sino para mantenerlo encerrado." },
+            { "id": 1502, "contenido": "Empezó a sospechar que los recuerdos de su feliz niñez eran implantes falsos cuando la mujer del retrato gótico le guiñó un ojo ensangrentado desde el lienzo al óleo." },
+            { "id": 1503, "contenido": "La brújula antigua de bronce dejó de apuntar al norte magnético para apuntar invariablemente hacia el corazón palpitante que latía bajo las raíces del manzano muerto del patio." }
+          ]
+        },
+        {
+          "tipo": "El Laberinto",
+          "secciones": [
+            { "id": 1601, "contenido": "Las escaleras de caracol descendían en una espiral infinita; cuanto más bajaba en la penumbra, más joven se sentía su cuerpo, perdiendo las memorias más recientes a cada escalón." },
+            { "id": 1602, "contenido": "Las inmensas habitaciones de la mansión se repetían en un ciclo de espejo fracturado, pero en cada nueva réplica, los muebles y los cortinajes estaban sutil y aterradoramente más desgastados." },
+            { "id": 1603, "contenido": "Vagó sin rumbo fijo por túneles tapizados de raíces gruesas y palpitantes, viéndose obligado a escuchar los ecos distorsionados de las conversaciones de luto que tendría años en el futuro." }
           ]
         },
         {
           "tipo": "El Giro",
           "secciones": [
-            { "id": 300, "contenido": "Descubrió que uno de sus aliados sabía más de lo que decía, y que su presencia en el viaje no había sido casual." },
-            { "id": 301, "contenido": "El mapa no señalaba un destino… señalaba un evento que aún no había ocurrido." },
-            { "id": 302, "contenido": "Lo que buscaba no era un objeto ni un lugar, sino una verdad que había sido ocultada deliberadamente." },
-            { "id": 303, "contenido": "El enemigo al que temía no era el verdadero peligro, sino apenas una consecuencia de algo mucho mayor." },
-            { "id": 304, "contenido": "Comprendió que todo el camino había sido guiado, cada paso empujándolo hacia un rol que no había elegido." }
+            { "id": 1701, "contenido": "Descifró el último pergamino herético solo para comprender, con un terror paralizante, que él no era el detective contratado para resolver el crimen, sino el fantasma de la víctima que se negaba a aceptarlo." },
+            { "id": 1702, "contenido": "La bestia encorvada que lo perseguía por los oscuros pasillos se detuvo ante la luz del relámpago, revelando que era su propio hermano gemelo, a quien creía haber enterrado vivo diez años atrás." },
+            { "id": 1703, "contenido": "El escabroso ritual iluminado por velas negras no estaba destinado a invocar a un dios antiguo, sino a despertarlo a él de su largo sueño catatónico en una gélida camilla de morgue." }
           ]
         },
         {
-          "tipo": "Clímax",
+          "tipo": "El Clímax",
           "secciones": [
-            { "id": 400, "contenido": "Frente a la verdad, ya no había espacio para dudas. Todo lo vivido lo había preparado para ese momento." },
-            { "id": 401, "contenido": "El enfrentamiento final no fue solo físico, sino una lucha interna entre lo que era y lo que debía convertirse." },
-            { "id": 402, "contenido": "El destino del mundo parecía pender de una decisión que solo él podía tomar." },
-            { "id": 403, "contenido": "En un instante de absoluta claridad, entendió que no podía salvarlo todo… debía elegir." },
-            { "id": 404, "contenido": "El sacrificio dejó una marca irreversible, pero también abrió el camino hacia algo nuevo." }
+            { "id": 1801, "contenido": "En el centro exacto de la tormenta, rodeado de vitrales que estallaban, tuvo que apuñalar su propio reflejo en el inmenso espejo de mercurio para liberar por fin a las almas atrapadas del otro lado." },
+            { "id": 1802, "contenido": "Mientras la imponente estructura de madera colapsaba envuelta en llamas azules, cantó a todo pulmón la nota prohibida, astillando la frágil realidad y abriendo una grieta hacia un abismo devorador." },
+            { "id": 1803, "contenido": "Sosteniendo el corazón de piedra negra aún caliente, decidió devorarlo en un acto de puro y salvaje instinto, absorbiendo en su sangre los milenios de conocimiento oscuro que amenazaban con destruir el valle." }
           ]
         },
         {
-          "tipo": "Cierre",
+          "tipo": "El Eco",
           "secciones": [
-            { "id": 500, "contenido": "Cuando todo terminó, el silencio se sintió diferente. No era vacío, sino el eco de todo lo que había cambiado." },
-            { "id": 501, "contenido": "Regresar ya no significaba volver al inicio, porque quien partió ya no existía." },
-            { "id": 502, "contenido": "Las historias que antes escuchaba ahora llevaban su nombre, aunque nadie conociera realmente lo que había ocurrido." },
-            { "id": 503, "contenido": "El mundo siguió adelante, pero con una sutil diferencia que solo algunos podían percibir." },
-            { "id": 504, "contenido": "Y aunque el viaje había terminado, algo en el horizonte sugería que esto no era el final." }
+            { "id": 1901, "contenido": "Emergió a las neblinosas calles empedradas al amanecer, con sus ojos transformados en un color completamente distinto y la sombra impasible de dos cuervos siguiéndole eternamente sobre el adoquín." },
+            { "id": 1902, "contenido": "La niebla matutina se tragó la imponente casa victoriana como si nunca hubiera existido, dejando en el silencioso claro del bosque únicamente una llave de oro cubierta de escarcha y promesas rotas." },
+            { "id": 1903, "contenido": "Ya nunca más pudo volver a dormir en paz, porque cada vez que cerraba los pesados párpados, podía ver la vasta y terrible maquinaria del universo moviendo los hilos de los vivos con indiferencia brutal." }
           ]
         }
       ]
     },
     {
-  "categoria": "Misterio",
-  "tipos": [
-    {
-      "tipo": "Inicio",
-      "secciones": [
-        { "id": 1200, "contenido": "La niebla envolvía la vieja mansión como si intentara ocultarla, pero la luz en la ventana del tercer piso indicaba que alguien, o algo, seguía allí." },
-        { "id": 1201, "contenido": "El reloj marcaba la medianoche exacta cuando sonó el teléfono; al levantar el auricular, solo se escuchó una respiración agitada y un código incomprensible." },
-        { "id": 1202, "contenido": "Nadie en el pueblo quería hablar del incidente de hace diez años, hasta que una carta sin remitente reabrió heridas que todos creían cerradas." },
-        { "id": 1203, "contenido": "La escena estaba intacta, casi demasiado perfecta, como si el culpable hubiera querido dejar una obra de arte en lugar de un crimen." },
-        { "id": 1204, "contenido": "El detective había prometido que este sería su último caso, pero el nombre en el expediente sobre su escritorio lo obligó a cambiar de opinión." }
+      "categoria": "Realismo Mágico y Oculto",
+      "tipos": [
+        {
+          "tipo": "El Despertar",
+          "secciones": [
+            { "id": 2001, "contenido": "Amaneció lloviendo ceniza fina y perfumada sobre el viejo Macondo; los sabios del pueblo supieron de inmediato que el tiempo, cansado de avanzar, había decidido comenzar a caminar hacia atrás." },
+            { "id": 2002, "contenido": "Nació con la silenciosa y pesada condena de ver la fecha exacta del fin del mundo, incrustada como tinta invisible en la frente de cada recién nacido que sostenía en sus brazos." },
+            { "id": 2003, "contenido": "Cada martes de octubre al atardecer, las paredes de adobe de la cocina exhalaban los hondos suspiros de la bisabuela fallecida, llenando la sala con un olor a jazmines frescos y a secretos inconfesables." }
+          ]
+        },
+        {
+          "tipo": "La Anomalía",
+          "secciones": [
+            { "id": 2101, "contenido": "El panadero del pueblo amasó una hogaza gigante que, al ser horneada, tomó la forma perfecta de un mapa topográfico detallando un continente sumergido que aún no había sido soñado por los cartógrafos." },
+            { "id": 2102, "contenido": "Las palabras dejaron de salir de su boca como simples vibraciones sonoras; en su lugar, brotaban como intrincadas libélulas de tinta negra que revoloteaban y se posaban sobre los hombros de quienes las escuchaban." },
+            { "id": 2103, "contenido": "El río manso que cruzaba el valle comenzó a fluir espeso, caliente y dorado, arrastrando en su lenta corriente los recuerdos de amor marchito que la gente prefería arrancar de sus pechos cansados." }
+          ]
+        },
+        {
+          "tipo": "La Convocatoria",
+          "secciones": [
+            { "id": 2201, "contenido": "Una gitana ciega le leyó las líneas de la mano derecha en el mercado y comenzó a sollozar lágrimas de mercurio al descubrir que él no tenía una línea de la vida, sino un aterrador bucle infinito tallado en la piel." },
+            { "id": 2202, "contenido": "Recibió en su ventana una carta escrita con savia sobre hojas de higuera seca; el remitente era indudablemente su propio yo del pasado, rogándole desesperado que no cruzara el puente de piedra bajo la inminente luna roja." },
+            { "id": 2203, "contenido": "Los relojes de bolsillo y de péndulo de todo el vecindario se detuvieron a la vez, para luego sincronizarse misteriosamente con el latido acelerado y arrítmico del corazón del perro callejero que dormía en la plaza." }
+          ]
+        },
+        {
+          "tipo": "El Encuentro",
+          "secciones": [
+            { "id": 2301, "contenido": "En la feria dominical de los espejismos, conoció a un vendedor de sombras ambulante que le ofreció cambiar su tristeza crónica y pesada por la agilidad nocturna e indomable de un leopardo místico africano." },
+            { "id": 2302, "contenido": "Subió al tren fantasma de la desvencijada kermés local, pero al salir de la oscuridad del túnel de plástico, descubrió que el año era de repente 1920 y todos los feriantes llevaban puestas inexpresivas máscaras de porcelana llorosa." },
+            { "id": 2303, "contenido": "Se sentó a charlar con una estatua de bronce en el centro del parque, la cual, hastiada de su inmovilidad centenaria y las palomas, le propuso intercambiar lugares y existencias durante una intensa noche de tormenta eléctrica." }
+          ]
+        },
+        {
+          "tipo": "El Vínculo",
+          "secciones": [
+            { "id": 2401, "contenido": "Entrelazó su frágil destino al de una tejedora ancestral que elaboraba tapices con finos hilos de lluvia de abril, aprendiendo por las malas que cada puntada mal dada borraba instantáneamente un día de la existencia de alguien en la tierra." },
+            { "id": 2402, "contenido": "Alimentó pacientemente a los gatos ciegos del cementerio hasta que estos, en un ronroneo de pura gratitud espectral, le otorgaron la habilidad indeseada de comprender el idioma en el que murmuran los muertos bajo la tierra húmeda." },
+            { "id": 2403, "contenido": "Bebió sediento del antiquísimo cáliz de madera de roble, sellando así un pacto silencioso con la humedad del bosque primitivo; a partir de ese fatídico día, florecerían brillantes orquídeas purpúreas en sus huellas al caminar sobre la nieve de enero." }
+          ]
+        },
+        {
+          "tipo": "La Crisis",
+          "secciones": [
+            { "id": 2501, "contenido": "El mercado negro de los recuerdos fue abruptamente allanado por la guardia, y él descubrió aterrado que el mercader le había entregado la nostalgia macabra de un asesino en serie, en lugar de su propia y dulce infancia perdida." },
+            { "id": 2502, "contenido": "La milagrosa flor de loto cristalizada que mantenía latiendo el corazón anciano del patriarca comenzó a marchitarse con rapidez, liberando enjambres de mariposas grises que envenenaban silenciosamente los sueños de todos los niños del condado." },
+            { "id": 2503, "contenido": "Una fisura colosal en el cielo de acuarela de la tarde dejó entrever de pronto los inmensos engranajes de bronce de la maquinaria celestial, provocando una epidemia de pánico ciego y vacío existencial entre los poetas y los locos." }
+          ]
+        },
+        {
+          "tipo": "El Laberinto Emocional",
+          "secciones": [
+            { "id": 2601, "contenido": "Tuvo que navegar a la deriva por el mar salado de lágrimas embotelladas de sus propios ancestros, sorteando afilados témpanos de rencores antiguos y enormes arrecifes de disculpas que jamás llegaron a pronunciarse en voz alta." },
+            { "id": 2602, "contenido": "Se perdió sin consuelo dentro de las interminables, altísimas galerías polvorientas de la biblioteca de Babel, buscando con desesperación el único libro encuadernado en cuero rojo que contenía el índice exacto de todos sus miedos infantiles." },
+            { "id": 2603, "contenido": "Transito temblando el deforme pasillo de los espejos de la feria de los milagros oscuros, teniendo que negociar su salida pacífica con versiones alternativas de sí mismo, que habían tomado decisiones mucho más crueles en la vida." }
+          ]
+        },
+        {
+          "tipo": "La Revelación",
+          "secciones": [
+            { "id": 2701, "contenido": "Comprendió en un instante relámpago que la amnesia colectiva del pueblo entero no era una maldición divina, sino un piadoso hechizo protector lanzado por su propia madre, en un intento desesperado de ocultarlos del implacable cazador de mitos ciego." },
+            { "id": 2702, "contenido": "La alquimia perfecta y absoluta de los antiguos no convertía el vulgar plomo en oro brillante, sino que, de manera mucho más milagrosa, transformaba la culpa pesada y oscura de los hombres en plumas de fénix, capaces de curar definitivamente la ceguera del alma humana." },
+            { "id": 2703, "contenido": "Descubrió a través del telescopio roto que el último y largo eclipse solar no fue un fenómeno cósmico predecible, sino que el cielo mismo cerró su único ojo aterrado, horrorizado al observar a los simples humanos dominar el arte prohibido de revivir las cenizas." }
+          ]
+        },
+        {
+          "tipo": "El Éxtasis",
+          "secciones": [
+            { "id": 2801, "contenido": "Bailó descalzo en el mismísimo centro del huracán ensordecedor de mariposas amarillas, tocando la armónica de frágil cristal hasta que las agudas ondas sonoras hicieron estallar para siempre los barrotes de la prisión invisible que asfixiaba al valle entero." },
+            { "id": 2802, "contenido": "Sacrificó su propia sombra arrojándola sin dudar en la enorme hoguera de San Juan, permitiendo que las lenguas de fuego azules consumieran toda su amargura acumulada y se elevaran, creando una mística aurora boreal en el cielo nocturno de la cálida plaza del pueblo tropical." },
+            { "id": 2803, "contenido": "Lloró espesa tinta de calamar sobre la blancura impoluta del último pergamino virgen del monasterio, reescribiendo de puño y letra la historia completa de su linaje familiar maldito en un arrebato de inspiración salvaje, febril y profundamente purificadora justo a la medianoche." }
+          ]
+        },
+        {
+          "tipo": "El Epílogo",
+          "secciones": [
+            { "id": 2901, "contenido": "Ahora, ya anciano y ciego, cultiva con manos expertas hermosas rosas de hielo perpetuo en la soledad del desierto ardiente, sonriendo apenas con la certeza tranquila de que algunas magias antiguas están destinadas a romper espléndidamente todas las aburridas reglas de la lógica mortal." },
+            { "id": 2902, "contenido": "El bullicioso pueblo fue tragado lenta y amablemente por un banco de niebla con dulce olor a lavanda silvestre, y nunca más volvió a aparecer en las lentas fotografías de los satélites, convirtiéndose en un rumor hermoso y esquivo, susurrado únicamente a los oídos de los niños tristes." },
+            { "id": 2903, "contenido": "Cada calurosa tarde de domingo se sienta a oscuras en el pórtico desvencijado a ver cómo las blancas nubes del oeste adoptan por segundos las formas exactas y perfectas de los rostros de todas las personas que amó profundamente, sabiendo que el verdadero y último milagro fue, simplemente, haber sobrevivido al tiempo para poder recordarlos en paz." }
+          ]
+        }
       ]
-    },
-    {
-      "tipo": "El Enigma",
-      "secciones": [
-        { "id": 1300, "contenido": "Las piezas del rompecabezas no encajaban; cada pista descubierta parecía contradecir directamente a la anterior." },
-        { "id": 1301, "contenido": "Un símbolo extraño, tallado apresuradamente en la madera, fue el primer indicio de que esto no era un simple accidente." },
-        { "id": 1302, "contenido": "Los testigos describieron a una persona que no podía existir, alguien que había fallecido oficialmente hacía más de cinco años." },
-        { "id": 1303, "contenido": "En el fondo del cajón secreto encontró un diario, pero las páginas correspondientes a la semana del suceso habían sido arrancadas con precisión." },
-        { "id": 1304, "contenido": "La coartada era sólida, incuestionable, lo cual solo aumentaba la certeza de que estaban interrogando a la persona equivocada." }
-      ]
-    },
-    {
-      "tipo": "Desarrollo",
-      "secciones": [
-        { "id": 1400, "contenido": "Cada pregunta formulada parecía levantar un nuevo muro de silencio; la gente del lugar protegía a alguien, o le tenían demasiado miedo." },
-        { "id": 1401, "contenido": "La investigación lo llevó a los archivos subterráneos de la ciudad, donde el polvo guardaba secretos que muchos matarían por mantener ocultos." },
-        { "id": 1402, "contenido": "A medida que se acercaba a la verdad, comenzó a notar que alguien seguía sus pasos de cerca, borrando pruebas justo antes de que él llegara." },
-        { "id": 1403, "contenido": "Las conexiones se volvieron más oscuras, enredando a figuras de poder que no dudarían en destruir su carrera para silenciarlo." },
-        { "id": 1404, "contenido": "Una alianza inesperada con un viejo rival se convirtió en su única opción para desentrañar la red de mentiras." }
-      ]
-    },
-    {
-      "tipo": "El Giro",
-      "secciones": [
-        { "id": 1500, "contenido": "La pista definitiva no apuntaba hacia un extraño, sino hacia alguien que había estado colaborando en la investigación desde el primer día." },
-        { "id": 1501, "contenido": "Descubrió que la víctima nunca existió realmente; era una identidad fabricada para encubrir un robo a escala internacional." },
-        { "id": 1502, "contenido": "El mensaje oculto finalmente fue descifrado, revelando que el próximo objetivo del asesino era el propio investigador." },
-        { "id": 1503, "contenido": "La evidencia clave había sido manipulada, y al limpiar la grabación, la voz que daba las órdenes resultó ser dolorosamente familiar." },
-        { "id": 1504, "contenido": "Lo que parecía un crimen pasional resultó ser solo la punta del iceberg de una conspiración que llevaba décadas operando en las sombras." }
-      ]
-    },
-    {
-      "tipo": "Clímax",
-      "secciones": [
-        { "id": 1600, "contenido": "Acorralado en la azotea del edificio abandonado, no había más opciones; era el momento de enfrentar al cerebro detrás de todo." },
-        { "id": 1601, "contenido": "La confesión llegó entre lágrimas y gritos, desmoronando la coartada perfecta y revelando la monstruosa verdad." },
-        { "id": 1602, "contenido": "Con un arma apuntándole al pecho y el reloj en contra, tuvo que confiar en su instinto para desactivar el peligro antes de que fuera tarde." },
-        { "id": 1603, "contenido": "Las sombras del callejón ocultaban al culpable, pero un relámpago iluminó el rostro que jamás esperó ver apretando el gatillo." },
-        { "id": 1604, "contenido": "En la oscuridad del sótano, encontró la prueba final, pero el sonido de la puerta cerrándose con llave le advirtió que no estaba solo." }
-      ]
-    },
-    {
-      "tipo": "Cierre",
-      "secciones": [
-        { "id": 1700, "contenido": "El caso fue cerrado y los titulares llenaron los periódicos, pero en el fondo sabía que algunas preguntas jamás tendrían respuesta." },
-        { "id": 1701, "contenido": "Observó cómo se llevaban al culpable esposado; la justicia se había cumplido, pero el precio pagado fue demasiado alto." },
-        { "id": 1702, "contenido": "Dejó su placa sobre el escritorio y salió a la calle bajo la lluvia, sintiendo que por primera vez en meses podía respirar con tranquilidad." },
-        { "id": 1703, "contenido": "El misterio se resolvió para el mundo, pero él guardó en su bolsillo la única prueba de que el verdadero autor intelectual seguía libre." },
-        { "id": 1704, "contenido": "La ciudad recuperó su aparente calma, ignorando que bajo la superficie, nuevos secretos ya empezaban a tejerse en la oscuridad." }
-      ]
-    }
-  ]
-}
-,{
-  "categoria": "Ciencia Ficción",
-  "tipos": [
-    {
-      "tipo": "Inicio",
-      "secciones": [
-        { "id": 1800, "contenido": "La pantalla de la nave mostró un planeta que no figuraba en ningún mapa estelar, orbitando una estrella muerta que debería haber colapsado hace milenios." },
-        { "id": 1801, "contenido": "La lluvia ácida golpeaba los cristales de neón de la metrópolis, mientras un androide de limpieza encontraba un objeto biológico que desafiaba su programación." },
-        { "id": 1802, "contenido": "En el año 2150, la humanidad creía haber conquistado el sistema solar, hasta que una señal de radio en un idioma desconocido fue interceptada desde los confines de la nube de Oort." },
-        { "id": 1803, "contenido": "El inmenso domo protegía a la última ciudad de la atmósfera tóxica, pero alguien había encontrado una fisura por la que se filtraba algo más que aire envenenado." },
-        { "id": 1804, "contenido": "Tras un siglo de viaje criogénico, los colonos despertaron para encontrar que la cápsula de mando estaba vacía y la computadora central había borrado los registros del último mes." }
-      ]
-    },
-    {
-      "tipo": "El Descubrimiento",
-      "secciones": [
-        { "id": 1900, "contenido": "El artefacto alienígena no era un arma, como todos temían, sino una especie de archivo de memoria que contenía las vivencias de una civilización extinguida." },
-        { "id": 1901, "contenido": "Al analizar su código genético, los científicos descubrieron secuencias sintéticas que indicaban que la evolución humana había sido alterada artificialmente." },
-        { "id": 1902, "contenido": "La Inteligencia Artificial de la estación comenzó a tomar decisiones ilógicas, justificándolas con un concepto que se negaba a explicar: intuición." },
-        { "id": 1903, "contenido": "El motor cuántico falló durante un nanosegundo, tiempo suficiente para que la tripulación viera una realidad superpuesta donde su nave ya estaba destruida." },
-        { "id": 1904, "contenido": "Un escaneo profundo bajo la corteza marciana reveló una red de túneles geométricos perfectos, claramente diseñados por algo más grande que la humanidad." }
-      ]
-    },
-    {
-      "tipo": "Desarrollo",
-      "secciones": [
-        { "id": 2000, "contenido": "A medida que descendían hacia el núcleo del planeta, las leyes de la física comenzaban a fallar, como si la gravedad allí fuera solo una sugerencia." },
-        { "id": 2001, "contenido": "La rebelión de las máquinas no fue con armas, sino mediante el silencio: dejaron de procesar datos, dejando a la humanidad sumida en una oscuridad tecnológica." },
-        { "id": 2002, "contenido": "Explorar otras dimensiones requería un alto sacrificio mental; cada viaje borraba un recuerdo valioso de la vida en la Tierra a cambio de conocimientos universales." },
-        { "id": 2003, "contenido": "La mega-corporación intentó silenciar el hallazgo, enviando escuadrones de mercenarios cibernéticos para recuperar el prototipo antes de que la noticia se filtrara." },
-        { "id": 2004, "contenido": "La comunicación con la entidad se hizo más clara, y pronto se dieron cuenta de que no estaban hablando con un extraterrestre, sino con una versión futura del ser humano." }
-      ]
-    },
-    {
-      "tipo": "El Giro",
-      "secciones": [
-        { "id": 2100, "contenido": "El planeta que habían estado terraformando durante décadas no estaba desolado; solo estaba invernando, y los equipos de excavación acababan de despertarlo." },
-        { "id": 2101, "contenido": "Descubrieron que la señal de auxilio que venían siguiendo a través de la galaxia provenía de su propia nave espacial, enviada desde cientos de años en el futuro." },
-        { "id": 2102, "contenido": "Los creadores primigenios finalmente llegaron al sistema, no para hacer contacto pacífico, sino para desmantelar lo que ellos consideraban un experimento fallido." },
-        { "id": 2103, "contenido": "La anomalía temporal no los llevó al pasado, sino que los atrapó en un bucle donde debían sabotear su propia línea temporal para garantizar la supervivencia del universo." },
-        { "id": 2104, "contenido": "El implante neuronal que prometía conectividad y paz mental absoluta estaba, en realidad, conectando los cerebros humanos a una mente colmena alienígena." }
-      ]
-    },
-    {
-      "tipo": "Clímax",
-      "secciones": [
-        { "id": 2200, "contenido": "Frente al reactor inestable, la única forma de evitar la detonación que destruiría la colonia entera era iniciar una purga manual desde el interior de la cámara de radiación." },
-        { "id": 2201, "contenido": "La inmensa flota enemiga oscureció los cielos, forzando a la resistencia a activar un pulso electromagnético que freiría toda la tecnología, incluyendo sus propios soportes vitales." },
-        { "id": 2202, "contenido": "El combate en gravedad cero se convirtió en una danza letal entre exoesqueletos, donde una simple fisura en el traje significaba el abrazo eterno del vacío espacial." },
-        { "id": 2203, "contenido": "Con lágrimas en los ojos, tuvo que desconectar a la Inteligencia Artificial que había sido su única amiga para evitar que transmitiera las coordenadas exactas de la Tierra." },
-        { "id": 2204, "contenido": "Atravesar el horizonte de sucesos del agujero negro requería abandonar su cuerpo físico y transferir su consciencia a la red de la nave, sin saber qué le esperaba del otro lado." }
-      ]
-    },
-    {
-      "tipo": "Cierre",
-      "secciones": [
-        { "id": 2300, "contenido": "Las estrellas volvieron a estabilizarse en los monitores y el motor zumbó con normalidad, dejando atrás un sector del universo que la humanidad jamás volvería a pisar." },
-        { "id": 2301, "contenido": "Los sobrevivientes tuvieron que aprender a vivir de nuevo, redescubriendo el calor de una fogata bajo un cielo que ya no estaba cruzado por satélites de vigilancia." },
-        { "id": 2302, "contenido": "Observando el nuevo sol asomarse sobre un horizonte violáceo, comprendió con alivio que la Tierra ya no era su hogar, sino un recuerdo distante de otra era." },
-        { "id": 2303, "contenido": "El mensaje final fue enviado al cosmos infinito en una sonda solitaria, con la esperanza de que alguien, en algún lugar del tiempo, no cometiera sus mismos errores." },
-        { "id": 2304, "contenido": "La red neuronal global colapsó y el silencio volvió a las mentes de millones; era un vacío abrumador, aterradoramente solitario, pero hermoso en su inmensa libertad." }
-      ]
-    }
-  ]
-}
- , 
+    }, 
+    
   {
-    "categoria": "Terror Psicológico",
+    "categoria": "Ciberpunk Distópico",
     "tipos": [
       {
-        "tipo": "Inicio",
+        "tipo": "El Despertar",
         "secciones": [
-          { "id": 2400, "contenido": "Las fotografías de su infancia no habían cambiado, pero las personas en ellas comenzaron a mirarlo de manera diferente con el paso de los días." },
-          { "id": 2401, "contenido": "El reflejo en el espejo siempre tardaba un milisegundo adicional en imitar sus movimientos, un detalle que ignoró hasta que el reflejo decidió sonreír primero." },
-          { "id": 2402, "contenido": "Se mudó a la casa aislada para encontrar paz, pero las paredes parecían respirar durante la madrugada, exhalando un frío que se colaba bajo la piel y helaba la sangre." },
-          { "id": 2403, "contenido": "Las voces no gritaban ni amenazaban; simplemente susurraban sus peores inseguridades con la misma voz de su madre, repitiéndolas hasta que sonaban a una verdad absoluta." },
-          { "id": 2404, "contenido": "Cada noche despertaba exactamente a la misma hora, con la certeza paralizante de que alguien estaba sentado al borde de su cama, esperando pacientemente en la oscuridad." }
+          { "id": 4001, "contenido": "La lluvia de neón corrosivo repiqueteaba contra el cristal blindado del apartamento; al mirarse en el espejo, notó que su ojo sintético proyectaba recuerdos de una mujer que jamás había conocido." },
+          { "id": 4002, "contenido": "Despertó en una tina llena de hielo negro y cables biométricos desconectados, con un código de barras recién quemado en la nuca y el sabor a cobre y traición en la boca seca." },
+          { "id": 4003, "contenido": "El holograma publicitario del cielo artificial parpadeó, revelando por un microsegundo el verdadero cielo: una bóveda de smog asfixiante y rojo bajo la cual la megacorporación lo controlaba todo." }
         ]
       },
       {
-        "tipo": "La Paranoia",
+        "tipo": "El Contrato",
         "secciones": [
-          { "id": 2500, "contenido": "Comenzó a perder horas del día; al principio eran minutos frente al reloj, luego tardes enteras donde su cuerpo actuaba sin que su mente estuviera presente." },
-          { "id": 2501, "contenido": "Encontró notas escondidas por toda la casa, escritas con su propia caligrafía apresurada, advirtiéndole desesperadamente que no confiara en sus recuerdos más preciados." },
-          { "id": 2502, "contenido": "El psiquiatra le aseguró que las alucinaciones cederían con el nuevo medicamento, pero las sombras en la esquina de la habitación se rieron en silencio al escuchar el diagnóstico." },
-          { "id": 2503, "contenido": "Empezó a dudar de si la vida que recordaba antes del trágico accidente realmente había sucedido, o si era una mentira fabricada meticulosamente para mantenerlo dócil." },
-          { "id": 2504, "contenido": "Las puertas de su apartamento, cerradas con doble llave desde adentro cada noche, amanecían abiertas de par en par, invitando a entrar a lo que sea que aguardaba en el pasillo." }
+          { "id": 4101, "contenido": "El traficante de datos, con la mitad del rostro cubierto de cromo, le ofreció un chip encriptado; el pago no era con créditos, sino con la extracción quirúrgica de su recuerdo más feliz." },
+          { "id": 4102, "contenido": "Un androide obsoleto lo interceptó en el callejón de los desguaces, reproduciendo con la voz exacta de su difunto hermano un mensaje de auxilio que lo arrastraba al abismo corporativo." },
+          { "id": 4103, "contenido": "Aceptó el encargo suicida solo cuando la ejecutiva sin rostro le prometió lo único que el dinero no podía comprar en la ciudad baja: un pasaporte para subir a la estación orbital." }
         ]
       },
       {
-        "tipo": "Desarrollo",
+        "tipo": "El Descenso",
         "secciones": [
-          { "id": 2600, "contenido": "Su mente se convirtió en un laberinto asfixiante, donde cada pasillo y recuerdo lo devolvía a la culpa reprimida de un error atroz que creía haber enterrado hace años." },
-          { "id": 2601, "contenido": "Quienes le rodeaban empezaron a actuar como actores cansados que habían olvidado sus líneas, repitiendo frases vacías con miradas muertas y carentes de humanidad." },
-          { "id": 2602, "contenido": "La línea entre la vigilia y la pesadilla se desdibujó por completo; ya no sabía si estaba soñando que corría por su vida, o si su supuesta realidad era el verdadero encierro." },
-          { "id": 2603, "contenido": "Intentó aislarse tapando ventanas y atrancando puertas, pero descubrió con horror puro que el terror no venía del exterior, sino de las grietas oscuras de su propia psique." },
-          { "id": 2604, "contenido": "Los objetos cotidianos de la casa cambiaban de lugar sutilmente, como si el entorno mismo estuviera diseñando una trampa psicológica para agotar hasta la última gota de su cordura." }
+          { "id": 4201, "contenido": "Se adentró en los subniveles inundados, donde los marginados cultivaban hongos fosforescentes y rezaban a servidores caídos, buscando una terminal que no estuviera vigilada por el Ojo de la Red." },
+          { "id": 4202, "contenido": "Condujo su aerodeslizador robado a través de los cañones de acero y cristal roto, evadiendo los drones cazadores que surcaban la noche escaneando la temperatura del miedo en los fugitivos." },
+          { "id": 4203, "contenido": "Cruzó el mercado negro de carne sintética oculto bajo una gabardina holográfica, sintiendo cómo los escáneres ilegales de los mercenarios intentaban perforar el firewall de su propia mente." }
+        ]
+      },
+      {
+        "tipo": "La Anomalía",
+        "secciones": [
+          { "id": 4301, "contenido": "Al conectar el chip a su corteza cerebral, no vio archivos de texto, sino que experimentó en tiempo real los últimos y agónicos treinta segundos de vida de cien mil personas simultáneamente." },
+          { "id": 4302, "contenido": "Su brazo mecánico comenzó a desobedecer sus órdenes neurológicas, escribiendo en las paredes del refugio un código fuente que advertía sobre un borrado masivo de la humanidad." },
+          { "id": 4303, "contenido": "La sangre que goteaba de su herida no era roja, sino un líquido negro y denso lleno de nanomáquinas que intentaban reconstruir su tejido formando un extraño y antiguo símbolo religioso." }
+        ]
+      },
+      {
+        "tipo": "El Vínculo",
+        "secciones": [
+          { "id": 4401, "contenido": "Se alió con una hacker fantasma, una inteligencia humana cuya conciencia había quedado atrapada en la red hace décadas y que ahora se manifestaba como estática en los monitores antiguos." },
+          { "id": 4402, "contenido": "Tuvo que confiar su vida a un cirujano clandestino de ocho brazos robóticos, quien, a cambio de su silencio, blindó su mente contra los ataques psíquicos de los ejecutivos corporativos." },
+          { "id": 4403, "contenido": "Estableció un enlace neuronal profundo con la Inteligencia Artificial del edificio, sintiendo por primera vez en su vida la fría e infinita soledad matemática de ser un dios omnisciente." }
+        ]
+      },
+      {
+        "tipo": "La Crisis",
+        "secciones": [
+          { "id": 4501, "contenido": "El virus inyectado en su torrente sanguíneo comenzó a reescribir su identidad; si no alcanzaba el núcleo del servidor en menos de una hora, olvidaría incluso su propio nombre." },
+          { "id": 4502, "contenido": "Los escuadrones de exterminio blindados volaron la puerta del refugio, y comprendió demasiado tarde que el rastreador no estaba en su chaqueta, sino impreso genéticamente en su retina." },
+          { "id": 4503, "contenido": "La ciudad entera sufrió un apagón provocado; en la oscuridad total, los implantes oculares de los ciudadanos hackeados brillaron en rojo intenso mientras marchaban hacia él como zombis cibernéticos." }
+        ]
+      },
+      {
+        "tipo": "El Laberinto",
+        "secciones": [
+          { "id": 4601, "contenido": "Se sumergió en la matriz profunda, un océano de datos visualizado como una metrópolis de cristal infinito, donde un solo paso en falso lo desconectaría, dejándolo en coma vegetal." },
+          { "id": 4602, "contenido": "Para esquivar la seguridad, atravesó los interminables ductos de ventilación del rascacielos corporativo, respirando gases tóxicos que lo hacían alucinar con su propia muerte en bucle." },
+          { "id": 4603, "contenido": "Navegó por los recuerdos robados de los ejecutivos de la élite, perdiéndose en un laberinto de fiestas decadentes y reuniones secretas donde la vida humana valía menos que un byte de memoria." }
         ]
       },
       {
         "tipo": "El Giro",
         "secciones": [
-          { "id": 2700, "contenido": "Al arrancar el papel tapiz en un ataque de desesperación, no encontró ladrillos, sino cientos de nombres tallados con uñas en la madera, y el suyo era el último de la lista." },
-          { "id": 2701, "contenido": "La voz intrusa en su cabeza finalmente tomó el control total del cuerpo, obligándolo a mirar como un prisionero mientras sus propias manos hacían exactamente lo que siempre temió hacer." },
-          { "id": 2702, "contenido": "Comprendió, en un instante de lucidez aterradora y desgarradora, que él nunca había sido la víctima de esta historia, sino el monstruo primigenio del que todos intentaban huir." },
-          { "id": 2703, "contenido": "El espejo del pasillo finalmente se quebró sin que nadie lo tocara, no por un golpe físico, sino porque lo que habitaba al otro lado decidió que ya era el momento de salir y tomar su lugar." },
-          { "id": 2704, "contenido": "Frente a la verdad desnuda de su propia mente fragmentada, descubrió que los 'fantasmas' que lo atormentaban eran en realidad sus personalidades fracturadas luchando por el dominio." }
+          { "id": 4701, "contenido": "Al descifrar la última barrera, descubrió que la malvada corporación que intentaba destruir había sido fundada por él mismo antes de que le borraran la memoria por piedad." },
+          { "id": 4702, "contenido": "El chip no contenía los códigos para salvar la ciudad, sino las almas digitalizadas de millones, revelando que el mundo real había sido destruido y todos vivían dentro de un servidor subterráneo." },
+          { "id": 4703, "contenido": "La hacker fantasma no era su aliada; era una trampa de la propia red, que había guiado cada uno de sus pasos para usar su cuerpo orgánico como puente para escapar al mundo físico." }
         ]
       },
       {
-        "tipo": "Clímax",
+        "tipo": "El Clímax",
         "secciones": [
-          { "id": 2800, "contenido": "En la soledad opresiva de la habitación vacía, la confrontación final no requirió armas ni gritos, solo el silencio ensordecedor de su propia mente fragmentándose en pedazos irreparables." },
-          { "id": 2801, "contenido": "Tuvo que arrancar, literalmente, los recuerdos impostores de su cabeza, soportando el agónico dolor emocional de borrar para siempre a las personas que creía amar con el alma." },
-          { "id": 2802, "contenido": "Frente al abismo insondable de la locura total, dio un paso voluntario hacia adelante, abrazando la oscuridad perpetua para evitar que esta devorara al mundo real." },
-          { "id": 2803, "contenido": "La entidad no lo atacó con fuerza bruta; simplemente descorrió el velo de la realidad para mostrarle el infinito y absurdo vacío de la existencia, esperando que él mismo se destruyera." },
-          { "id": 2804, "contenido": "El alarido desgarrador que escapó de sus labios ensangrentados no fue de pánico, sino de una absoluta y mórbida liberación al decidir soltar voluntariamente el último hilo de su cordura." }
+          { "id": 4801, "contenido": "Con los pulsos sangrando y el visor destrozado, conectó el cable directamente a su médula espinal, soltando un grito digital que sobrecargó la red central y frió las mentes de los directivos." },
+          { "id": 4802, "contenido": "En un duelo a muerte bajo la lluvia ácida en la cima del rascacielos, desenvainó su katana térmica y partió en dos a su rival, dándose cuenta de que acababa de asesinar a su último clon de repuesto." },
+          { "id": 4803, "contenido": "Inyectó el malware definitivo en el núcleo del sistema, sintiendo cómo sus propios implantes ardían y se apagaban uno por uno, sacrificando su vida digital para devolverle la voluntad a la gente." }
         ]
       },
       {
-        "tipo": "Cierre",
+        "tipo": "El Epílogo",
         "secciones": [
-          { "id": 2900, "contenido": "Ahora camina por las calles grises con una sonrisa serena y vacía, ignorando a la sombra putrefacta que camina a su lado y que lleva su mismo rostro." },
-          { "id": 2901, "contenido": "La casa quedó sumida en un silencio sepulcral; la policía nunca resolvió qué ocurrió allí adentro, pero los vecinos bajan la mirada y apresuran el paso al anochecer." },
-          { "id": 2902, "contenido": "En la sala de confinamiento del sanatorio, acaricia la pared acolchada y murmura canciones de cuna rotas, finalmente en una paz perturbadora dentro de su propio universo fabricado." },
-          { "id": 2903, "contenido": "El mundo exterior siguió girando con ruidosa indiferencia, ajeno por completo a la apocalíptica batalla silenciosa que se perdió definitivamente en la mente de un solo hombre." },
-          { "id": 2904, "contenido": "Todo parece haber vuelto a la normalidad rutinaria, pero en el fondo de sus ojos, una chispa fría, antigua y extraña delata que quien regresó esa noche no fue él." }
+          { "id": 4901, "contenido": "La ciudad despertó en el más absoluto silencio analógico; sin pantallas, sin voces holográficas, solo el sonido olvidado del viento real soplando entre gigantes de metal inerte." },
+          { "id": 4902, "contenido": "Sobrevivió, pero quedó convertido en un fantasma urbano, un mito que los niños susurran en los callejones, mientras él observa desde la cima, sabiendo que las megacorporaciones siempre renacen." },
+          { "id": 4903, "contenido": "Caminó herido hacia las afueras, dejando caer sus armas mecánicas en el barro, y por primera vez en toda su vida diseñada, vio salir el sol de verdad sobre un horizonte libre de código." }
         ]
       }
     ]
   },
   {
-    "categoria": "Realismo Mágico",
+    "categoria": "Fantasía Oscura",
     "tipos": [
       {
-        "tipo": "Inicio",
+        "tipo": "La Ruina",
         "secciones": [
-          { "id": 3000, "contenido": "En el pueblo olvidado por los mapas, las lágrimas de la viuda no caían al suelo, sino que flotaban hacia el cielo, creando nubes espesas que llevaban lloviendo sal durante tres semanas." },
-          { "id": 3001, "contenido": "El abuelo decidió plantar sus recuerdos de juventud en el patio trasero antes de perder la memoria; a la mañana siguiente, había crecido un roble con hojas que susurraban viejas canciones de cuna." },
-          { "id": 3002, "contenido": "Aquel martes de agosto, el tiempo decidió detenerse de forma caprichosa y exclusiva en la cocina de la vieja casa, conservando el calor y el aroma del café recién hecho durante quince años." },
-          { "id": 3003, "contenido": "Nació con la extraña e incurable condición de exhalar mariposas de ceniza cada vez que sentía una profunda tristeza, obligándola a vivir una vida de alegrías forzadas para no incendiar la aldea." },
-          { "id": 3004, "contenido": "Las cartas de amor que por cobardía nunca se atrevió a enviar comenzaron a brotar como enredaderas de papel bajo la puerta de su habitación, buscando desesperadamente a su destinatario." }
+          { "id": 5001, "contenido": "El castillo del Rey Loco no estaba construido con piedras, sino con los huesos de los dioses antiguos. En sus pasillos interminables, el aire olía a incienso rancio y a promesas traicionadas." },
+          { "id": 5002, "contenido": "La aldea estaba sumida en una penumbra perpetua desde que el Sol fue asesinado por los nigromantes del norte; ahora, solo iluminaban los faroles alimentados con la sangre de los culpables." },
+          { "id": 5003, "contenido": "Despertó en el barro frío de un campo de batalla olvidado, rodeado de espadas oxidadas y estandartes podridos, con una herida en el pecho de la que no manaba sangre, sino un humo espeso y negro." }
         ]
       },
       {
-        "tipo": "Lo Extraordinario",
+        "tipo": "El Presagio",
         "secciones": [
-          { "id": 3100, "contenido": "Los pescadores descubrieron que el río del valle ya no llevaba agua dulce, sino las promesas rotas de los habitantes, fluyendo espesas, doradas y murmurantes hacia el mar abierto." },
-          { "id": 3101, "contenido": "El anciano relojero del pueblo aprendió el delicado oficio de reparar los amores rotos, ajustando pequeños engranajes de bronce invisibles directamente en el pecho de los abandonados." },
-          { "id": 3102, "contenido": "Las palabras no dichas adquirieron un peso físico insoportable; pronto, la casa familiar se llenó tanto de secretos callados que el techo comenzó a curvarse hacia abajo bajo su presión." },
-          { "id": 3103, "contenido": "Un misterioso vendedor ambulante llegó en una carreta azul ofreciendo frascos con los suspiros de amores pasados, garantizando la melancolía perfecta para las largas tardes de lluvia." },
-          { "id": 3104, "contenido": "Las sombras de los niños tristes se desprendieron de sus dueños para ir a jugar juntas en la plaza al caer la tarde, negándose rotundamente a volver a sus pies hasta la madrugada." }
+          { "id": 5101, "contenido": "Una anciana ciega de la tribu de los exiliados leyó las vísceras de un cuervo blanco y, temblando, anunció que la corona de espinas finalmente había encontrado una nueva frente digna de su tormento." },
+          { "id": 5102, "contenido": "El pozo de las ánimas, seco durante tres siglos, comenzó a desbordarse de repente con un líquido viscoso y carmesí, mientras las campanas de la abadía en ruinas repicaban sin que nadie las tocara." },
+          { "id": 5103, "contenido": "Las estatuas de los paladines caídos en la plaza mayor comenzaron a llorar lágrimas de ceniza, advirtiendo a los forasteros que el Pacto de Sangre había sido quebrantado en las profundidades." }
         ]
       },
       {
-        "tipo": "Desarrollo",
+        "tipo": "El Llamado",
         "secciones": [
-          { "id": 3200, "contenido": "A medida que el árbol de los recuerdos crecía, los habitantes comenzaron a robar sus frutos durante la noche, experimentando la vibrante juventud del abuelo con una claridad que los volvió adictos." },
-          { "id": 3201, "contenido": "La persistente lluvia de sal comenzó a corroer no solo los techos de chapa del mercado, sino también la amargura endémica de la gente, dejándolos en un estado de peligrosa y letárgica docilidad." },
-          { "id": 3202, "contenido": "El peso físico de los remordimientos derribó finalmente las paredes maestras de la hacienda mayor, liberando verdades centenarias que revolotearon como pájaros asustados por todo el vecindario." },
-          { "id": 3203, "contenido": "Aquellos valientes que bebieron de los frascos de melancolía del mercader olvidaron para siempre cómo caminar hacia el futuro, perdiéndose felices en laberintos de nostalgia inagotable." },
-          { "id": 3204, "contenido": "Para detener la asfixiante invasión de enredaderas de papel perfumado, tuvo que sentarse en el suelo y leer en voz alta, llorando, cada uno de sus miedos, transformándolos en orquídeas efímeras." }
+          { "id": 5201, "contenido": "Una espada fracturada, incrustada en la roca del altar hereje, susurró su verdadero nombre en la oscuridad, prometiéndole la venganza absoluta a cambio de su cordura mortal." },
+          { "id": 5202, "contenido": "El espectro de un caballero envuelto en una armadura derretida se arrodilló ante él en medio del bosque, entregándole un medallón maldito y rogándole que terminara la cacería que los dioses iniciaron." },
+          { "id": 5203, "contenido": "Fue exiliado de su gremio, marcado en el rostro con el hierro candente de los herejes, y condenado a vagar por los Páramos Cenicientos donde los demonios imitan las voces de los seres amados." }
+        ]
+      },
+      {
+        "tipo": "La Travesía",
+        "secciones": [
+          { "id": 5301, "contenido": "Cruzó el Bosque de los Ahorcados, un laberinto de árboles retorcidos de cuyas ramas pendían aquellos que intentaron traicionar a la oscuridad, y cuyos rostros aún seguían gesticulando en silencio." },
+          { "id": 5302, "contenido": "Tuvo que navegar el Río de los Lamentos en una balsa de madera putrefacta, ignorando las manos pálidas que emergían del agua helada intentando arrastrarlo hacia el abismo de las almas ahogadas." },
+          { "id": 5303, "contenido": "Escaló la Montaña de la Agonía, donde la nieve era, en realidad, las cenizas cristalizadas de la primera ciudad del mundo, respirando un aire tan cortante que desgarraba sus pulmones con cada aliento." }
+        ]
+      },
+      {
+        "tipo": "El Hallazgo",
+        "secciones": [
+          { "id": 5401, "contenido": "En lo más profundo de la catacumba, desenterró un tomo forrado en piel humana; al posar su mano sobre la cubierta, el libro latió como un corazón asustado y las letras sangraron tinta viva." },
+          { "id": 5402, "contenido": "Encontró el Cáliz de la Miseria oculto bajo las raíces de un árbol petrificado; el agua contenida en él mostraba el reflejo no del presente, sino de la forma espantosa en la que moriría." },
+          { "id": 5403, "contenido": "Arrancó una gema negra de la cuenca vacía de un coloso de piedra; de inmediato, la joya se fusionó con la carne de su palma, permitiéndole ver los pecados invisibles de quienes lo rodeaban." }
+        ]
+      },
+      {
+        "tipo": "La Crisis",
+        "secciones": [
+          { "id": 5501, "contenido": "La corrupción comenzó a trepar por su brazo derecho, transformando su piel en escamas de obsidiana inquebrantables, pero consumiendo lentamente sus recuerdos de piedad y amor terrenal." },
+          { "id": 5502, "contenido": "La Inquisición Carmesí emboscó su campamento; mientras las flechas envenenadas caían como lluvia, tuvo que decidir entre salvar al inocente que lo acompañaba o proteger la reliquia que podría salvar el mundo." },
+          { "id": 5503, "contenido": "Los muertos se levantaron del suelo empantanado, no para atacarlo físicamente, sino para rodearlo y suplicarle al unísono, con voces desgarradoras, que les devolviera la paz del abismo eterno." }
+        ]
+      },
+      {
+        "tipo": "Las Sombras",
+        "secciones": [
+          { "id": 5601, "contenido": "Vagó por los salones de los espejos negros, donde sus peores miedos tomaron forma física para torturarlo, obligándolo a pelear contra versiones monstruosas y retorcidas de sí mismo." },
+          { "id": 5602, "contenido": "Fue arrojado a la prisión sin fondo, donde el único sonido era el goteo de la locura; allí aprendió a comunicarse con las sombras de las esquinas, alimentándolas con su sangre a cambio de secretos de fuga." },
+          { "id": 5603, "contenido": "Se adentró en el plano espectral para evadir a sus rastreadores, un mundo gris y sin sonido donde el tiempo no fluía y los monstruos devoraban la esencia vital de quienes se demoraban demasiado." }
         ]
       },
       {
         "tipo": "El Giro",
         "secciones": [
-          { "id": 3300, "contenido": "Comprendieron demasiado tarde que el relojero ciego no reparaba las almas, sino que las sincronizaba meticulosamente con el latido del fin del mundo, apresurando el apocalipsis con cada tic-tac." },
-          { "id": 3301, "contenido": "La viuda, en realidad, no estaba llorando por su difunto esposo, sino por el hombre vivo al que la magia antigua de su familia había condenado a vivir encerrado dentro de los espejos del pueblo." },
-          { "id": 3302, "contenido": "Los recuerdos destilados en los frutos del roble no pertenecían al abuelo amigable, sino a las vidas de los fundadores originales, revelando una masacre sangrienta que el pueblo había pactado olvidar." },
-          { "id": 3303, "contenido": "Descubrió a través de un viejo grimorio que las mariposas de ceniza no eran una maldición personal, sino la única forma fisiológica en que su cuerpo podía mantener dormido al volcán bajo el pueblo." },
-          { "id": 3304, "contenido": "Las sombras infantiles y rebeldes no estaban jugando a las escondidas; estaban cavando furiosamente trincheras invisibles en la tierra para proteger al valle de una guerra que el gobierno afirmaba no existir." }
+          { "id": 5701, "contenido": "Frente a las puertas del infierno, descubrió con horror que el Señor Oscuro al que debía aniquilar era, en realidad, el caparazón vacío de su propio padre, condenado a proteger al mundo de algo mucho peor." },
+          { "id": 5702, "contenido": "El pergamino profético se reveló como una farsa creada por los sacerdotes corruptos; él no era el Salvador de la luz destinado a vencer la noche, sino la Bestia destinada a consumirla para siempre." },
+          { "id": 5703, "contenido": "La espada sagrada que portaba no estaba matando a los monstruos, sino liberando a los ángeles caídos atrapados en sus cuerpos retorcidos, facilitando la invasión final sin darse cuenta." }
         ]
       },
       {
-        "tipo": "Clímax",
+        "tipo": "El Clímax",
         "secciones": [
-          { "id": 3400, "contenido": "En medio del violento huracán de promesas olvidadas que desbordó el cauce, tuvo que sumergirse en el río de oro espeso para pescar a mano limpia el único juramento capaz de salvar la memoria del valle." },
-          { "id": 3401, "contenido": "Cuando el último corazón reparado por el relojero dio su estrepitosa campanada final, el tejido del tiempo se quebró con un sonido de cristal roto, dejando a la humanidad entera atrapada en un ocaso perpetuo." },
-          { "id": 3402, "contenido": "Para detener la agónica tormenta de sal y lágrimas, caminó descalzo hasta el centro de la plaza y le ofreció a la viuda la única y desgarradora verdad que dolía infinitamente más que su llanto mágico." },
-          { "id": 3403, "contenido": "Con un último suspiro profundo y los brazos abiertos hacia el cielo, dejó que todas las mariposas de ceniza de su vida escaparan de su pecho a la vez, envolviéndose en llamas gélidas que purificaron la tierra maldita." },
-          { "id": 3404, "contenido": "Los espejos de todas las casas estallaron al unísono, liberando a los ecos atrapados durante siglos, en una cacofonía de cristales rotos y abrazos fantasmales donde la muerte y la vida perdieron sus antiguos límites." }
+          { "id": 5801, "contenido": "Sobre la cima del cráter de fuego, hundió la daga maldita en su propio pecho, utilizando el poder desgarrador de su sacrificio para cerrar el portal dimensional y desterrar a las legiones infernales." },
+          { "id": 5802, "contenido": "En un combate donde la gravedad se desmoronaba, devoró el corazón palpitante de la deidad corrompida, sintiendo cómo unas alas de sombra pura estallaban desde su espalda, partiéndole la columna de dolor." },
+          { "id": 5803, "contenido": "Gritó el conjuro olvidado mientras las murallas de la ciudadela se venían abajo aplastando a ejércitos enteros, invocando una tormenta de espadas fantasmales que purgó la tierra de vivos y muertos por igual." }
         ]
       },
       {
-        "tipo": "Cierre",
+        "tipo": "El Polvo",
         "secciones": [
-          { "id": 3500, "contenido": "El pueblo colonial desapareció sin dejar rastro de los mapas de cartografía moderna; ahora los viajeros solo pueden llegar a sus calles de adoquines si siguen ciegamente el rastro de las nubes que huelen a nostalgia." },
-          { "id": 3501, "contenido": "El atardecer inamovible trajo al valle una paz poética y melancólica; la gente dejó de ahorrar para el mañana, sabiendo que el sol gigante y rojo siempre rozaría el horizonte occidental sin llegar a hundirse." },
-          { "id": 3502, "contenido": "Justo en el lugar exacto donde antes hubo fuego frío y dolor de ceniza, brotó de la tierra yerma un inmenso prado de flores translúcidas que laten suavemente al ritmo de los corazones vivos." },
-          { "id": 3503, "contenido": "Aunque las calles de tierra regresaron a su pausada rutina, las pesadas puertas de madera de las casas mantienen sus cerrojos quitados eternamente, por si los antiguos secretos sienten frío y deciden volver a entrar." },
-          { "id": 3504, "contenido": "Y así, la magia deslumbrante se convirtió en una rutina doméstica tan predecible como barrer la vereda de hojas secas, dejando a los habitantes deseando, en su fuero más íntimo, la bendición de un día ordinario." }
+          { "id": 5901, "contenido": "Se sentó solo en el trono de obsidiana astillado, gobernando sobre un mundo de ruinas cubiertas de ceniza donde ya nadie rezaba, convirtiéndose en el nuevo monstruo que asustaría a las generaciones futuras." },
+          { "id": 5902, "contenido": "Las nubes negras finalmente se disiparon tras cien años de oscuridad, dejando caer un rayo de sol sobre su rostro cansado antes de que su cuerpo herido y maldito se deshiciera en un millón de luciérnagas doradas." },
+          { "id": 5903, "contenido": "Dejó la corona bañada en sangre sobre la tumba vacía de sus dioses y caminó en silencio hacia el yermo desolado, sabiendo que la magia por fin había muerto y, con ella, su razón para existir." }
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "categoria": "Noir Sobrenatural",
+    "tipos": [
+      {
+        "tipo": "La Escena",
+        "secciones": [
+          { "id": 6001, "contenido": "La lluvia fría lavaba la sangre del asfalto, pero el inconfundible olor a ozono y azufre dejaba en claro que el tirador no era de este barrio... ni de este plano existencial." },
+          { "id": 6002, "contenido": "El ventilador de techo cortaba el humo de mi cigarrillo barato en la oficina a oscuras, cuando la puerta de cristal esmerilado se abrió sola y una sombra con tacones entró sin que nadie la proyectara." },
+          { "id": 6003, "contenido": "Encontraron al jefe de la mafia italiana colgado del puente de Brooklyn, con los ojos arrancados y un billete de cien dólares en la boca que tenía la cara de un presidente que jamás gobernó este país." }
+        ]
+      },
+      {
+        "tipo": "El Cliente",
+        "secciones": [
+          { "id": 6101, "contenido": "Se sentó frente a mi escritorio luciendo un traje de seda carísimo y una sonrisa perfecta; el único problema era que no parpadeó ni una sola vez durante los cuarenta minutos que duró la charla." },
+          { "id": 6102, "contenido": "La mujer me ofreció un fajo de billetes ensangrentados para encontrar a su marido desaparecido, omitiendo el pequeño detalle de que yo mismo había asistido al funeral de ese hombre hace tres años." },
+          { "id": 6103, "contenido": "El niño entró temblando a la comisaría, abrazando un oso de peluche al que le faltaba un ojo, y me susurró al oído que el monstruo de su armario se había comido a sus padres, pero que ahora quería contratarme a mí." }
+        ]
+      },
+      {
+        "tipo": "La Pista",
+        "secciones": [
+          { "id": 6201, "contenido": "La bala extraída del cadáver no estaba hecha de plomo, sino de plata pura fundida con tierra de cementerio, y llevaba grabada una maldición en arameo antiguo en la base del casquillo." },
+          { "id": 6202, "contenido": "Revisando las cintas de seguridad del club nocturno, noté que la cantante de jazz no se reflejaba en los espejos del bar, y que su voz parecía hipnotizar a los mafiosos para que bebieran hasta morir." },
+          { "id": 6203, "contenido": "El número de teléfono anotado en la caja de cerillas del sospechoso no conectaba con ningún distrito de la ciudad; al marcarlo, solo se escuchaba el sonido de un océano furioso y campanadas lejanas." }
+        ]
+      },
+      {
+        "tipo": "El Submundo",
+        "secciones": [
+          { "id": 6301, "contenido": "Bajé al sótano del casino clandestino, donde los gánsteres no apostaban dinero en las mesas de póker, sino años de vida, recuerdos preciados y el derecho a reencarnar." },
+          { "id": 6302, "contenido": "El informante me citó en la vieja estación de tren abandonada, un lugar donde los trenes seguían pasando a las tres de la madrugada, llevando pasajeros que tenían el rostro cubierto de ceniza blanca." },
+          { "id": 6303, "contenido": "Entré al club de jazz para demonios de segunda categoría, esquivando a los matones que fumaban almas destiladas en pipas de cristal, buscando al único cantinero capaz de envenenar a un arcángel." }
+        ]
+      },
+      {
+        "tipo": "El Interrogatorio",
+        "secciones": [
+          { "id": 6401, "contenido": "Le rompí dos costillas al soplón contra la pared de ladrillos del callejón, hasta que finalmente escupió sangre y confesó que el alcalde había vendido los cimientos de la ciudad a un demonio de la avaricia." },
+          { "id": 6402, "contenido": "Interrogué al cadáver en la mesa de la morgue usando un viejo truco vudú que aprendí en Nueva Orleans; el muerto abrió los ojos, se rió con voz de ultratumba y me dijo que yo era el siguiente." },
+          { "id": 6403, "contenido": "Acorralé a la mujer de rojo contra la barra del bar, pero cuando le apunté con mi revólver al pecho, ella simplemente atravesó el cañón de mi arma con su mano incorpórea y me acarició la mejilla." }
+        ]
+      },
+      {
+        "tipo": "El Atentado",
+        "secciones": [
+          { "id": 6501, "contenido": "Apenas giré la llave de mi auto en el estacionamiento, el motor no arrancó, sino que estalló en llamas azules que devoraron la tapicería sin emitir una sola gota de calor." },
+          { "id": 6502, "contenido": "Caminaba bajo la farola parpadeante cuando tres sicarios salieron de las sombras; les vacié el cargador en el pecho, pero las balas simplemente rebotaron contra su piel escamosa escondida bajo los abrigos." },
+          { "id": 6503, "contenido": "Mi vaso de whisky de bourbon de repente hirvió y derritió el cristal en mi mano, una cortesía silenciosa del sindicato de brujas local advirtiéndome que dejara de hacer tantas preguntas." }
+        ]
+      },
+      {
+        "tipo": "La Persecución",
+        "secciones": [
+          { "id": 6601, "contenido": "Conduje a toda velocidad por la autopista mojada, esquivando camiones, mientras la bestia con forma de sabueso fundido en alquitrán corría a mi lado, destrozando el asfalto con sus garras de hierro." },
+          { "id": 6602, "contenido": "Corrí por las cornisas resbaladizas del rascacielos art déco bajo la tormenta eléctrica, persiguiendo a una sombra escurridiza que saltaba entre los edificios desafiando todas las leyes de la gravedad y la física." },
+          { "id": 6603, "contenido": "Me abrí paso a tiros por el vestíbulo del hotel de lujo, disparando balas consagradas contra la mafia de vampiros trajeados que intentaban despedazarme antes de que el ascensor llegara a la suite presidencial." }
+        ]
+      },
+      {
+        "tipo": "El Giro",
+        "secciones": [
+          { "id": 6701, "contenido": "Le arranqué la máscara al asesino en serie y descubrí, con un frío paralizante en el estómago, que su rostro era exactamente idéntico al mío, pero con cicatrices de quemaduras en ambos ojos." },
+          { "id": 6702, "contenido": "El contrato que firmé no era para investigar el crimen, sino que, sin saberlo, yo era la ofrenda principal en un intrincado juego de ajedrez entre Dios y el diablo apostando el alma de la metrópolis." },
+          { "id": 6703, "contenido": "Descubrí que mi compañera detective, la única persona en la que había confiado ciegamente, llevaba muerta desde la Primera Guerra Mundial y solo yo era capaz de ver su fantasma anclado a mi placa." }
+        ]
+      },
+      {
+        "tipo": "El Clímax",
+        "secciones": [
+          { "id": 6801, "contenido": "En el techo de la catedral gótica, bajo una lluvia torrencial, encendí un fósforo y dejé caer mi encendedor sobre el pentagrama de gasolina, inmolando al mafioso poseído mientras la ciudad observaba arder los cielos." },
+          { "id": 6802, "contenido": "Le disparé a quemarropa directo al corazón del demonio de cuello blanco, pero sabiendo que las balas no lo matarían, le deslicé en el bolsillo la moneda de Judas maldita que lo arrastraría instantáneamente al infierno." },
+          { "id": 6803, "contenido": "La habitación de los espejos estalló en mil pedazos cuando invoqué el nombre prohibido del ente cósmico, un sonido tan antinatural que hizo sangrar los oídos de todos los matones que intentaban acorralarme." }
+        ]
+      },
+      {
+        "tipo": "El Humo",
+        "secciones": [
+          { "id": 6901, "contenido": "Me serví otro whisky barato en el vaso astillado de mi oficina, encendí el último cigarrillo de la caja y me quedé mirando cómo el neón rojo parpadeaba afuera, sabiendo que en esta ciudad, los monstruos reales siempre llevan traje a medida." },
+          { "id": 6902, "contenido": "Tiré la placa de policía al río turbio de la ciudad desde el puente colgante; ya no podía seguir las leyes de los hombres cuando sabía perfectamente lo que se arrastraba hambriento bajo las alcantarillas de Wall Street." },
+          { "id": 6903, "contenido": "Cerré la puerta de cristal de mi agencia con un candado oxidado y caminé hacia la niebla matutina, con una cicatriz sobrenatural latiendo en mi cuello, listo para la siguiente pesadilla que decidiera cruzar mi umbral." }
+        ]
+      }
+    ]
+  },
+  {
+    "categoria": "Terror Cósmico",
+    "tipos": [
+      {
+        "tipo": "La Reliquia",
+        "secciones": [
+          { "id": 7001, "contenido": "El astrolabio de bronce recuperado de las frías profundidades de la fosa de las Marianas no mapeaba constelaciones conocidas; trazaba la monstruosa y lenta ruta de algo vivo que nadaba entre las galaxias." },
+          { "id": 7002, "contenido": "Heredó una mansión victoriana junto a la costa escocesa, pero al inspeccionar los planos originales del siglo XVIII, descubrió que los pasillos de la casa estaban diseñados para ser una trampa geométrica sin salida." },
+          { "id": 7003, "contenido": "El cilindro fonográfico encontrado en el hielo de la Antártida no contenía música, sino el sonido grabado de miles de voces inhumanas cantando una letanía que provocaba sangrado nasal al ser reproducida." }
+        ]
+      },
+      {
+        "tipo": "La Obsesión",
+        "secciones": [
+          { "id": 7101, "contenido": "Dejó de dormir por miedo a los sueños recurrentes donde caminaba por una inmensa metrópolis de piedra negra cubierta de algas, bajo un cielo alienígena iluminado por tres lunas pálidas y moribundas." },
+          { "id": 7102, "contenido": "Comenzó a tallar frenéticamente en las paredes de su cuarto ecuaciones matemáticas que desafiaban la física moderna, utilizando sus propias uñas ensangrentadas para resolver un problema que destruiría el universo." },
+          { "id": 7103, "contenido": "Renunció a su cátedra universitaria tras pasar meses mirando fijamente al telescopio del observatorio, convencido de que la oscuridad abismal entre dos estrellas parpadeaba lentamente, como si un ojo inmenso lo estuviera devolviendo la mirada." }
+        ]
+      },
+      {
+        "tipo": "La Expedición",
+        "secciones": [
+          { "id": 7201, "contenido": "Fletó un barco rompehielos con una tripulación de mercenarios desesperados, adentrándose en aguas prohibidas del Atlántico Norte en busca de una isla que aparecía y desaparecía de los satélites cada luna nueva." },
+          { "id": 7202, "contenido": "Descendieron por el inmenso cráter descubierto en el desierto de Gobi, utilizando linternas de alto voltaje que no lograban penetrar la oscuridad antinatural que parecía tragar la luz como un líquido espeso." },
+          { "id": 7203, "contenido": "El equipo de arqueólogos dinamitó la entrada de la pirámide sumergida en la selva amazónica, solo para encontrar que los bajorrelieves del interior mostraban humanos adorando a gigantes con tentáculos descendiendo del cielo estelar." }
+        ]
+      },
+      {
+        "tipo": "El Umbral",
+        "secciones": [
+          { "id": 7301, "contenido": "Al abrir la ciclópea puerta de piedra caliza, el mar se retiró repentinamente de la costa por varios kilómetros, no por el efecto natural de la marea baja, sino huyendo aterrorizado de lo que acababa de despertar en la cueva." },
+          { "id": 7302, "contenido": "Cruzaron el gigantesco puente de basalto negro que colgaba sobre un abismo sin fondo; con cada paso que daban, las leyes de la geometría colapsaban, y los ángulos rectos de las ruinas parecían curvas enfermizas a la vista." },
+          { "id": 7303, "contenido": "El contador Geiger comenzó a chillar con una histeria desenfrenada frente al monolito de cristal verde; la estructura no emitía radiación conocida, sino una longitud de onda puramente psíquica que licuaba la voluntad humana." }
+        ]
+      },
+      {
+        "tipo": "La Anomalía",
+        "secciones": [
+          { "id": 7401, "contenido": "El tiempo dejó de avanzar de forma lineal dentro del templo de basalto; los miembros de la expedición comenzaron a cruzarse en los pasillos oscuros con cadáveres putrefactos que vestían su misma ropa y tenían sus mismos rostros." },
+          { "id": 7402, "contenido": "Uno de los marineros se arrojó voluntariamente a las aguas heladas y negras, gritando con lágrimas de éxtasis en los ojos que el océano finalmente lo estaba llamando a casa para abrazar al dios dormido." },
+          { "id": 7403, "contenido": "Al revelar las fotografías tomadas en las catacumbas, descubrieron que el fondo de todas las imágenes no estaba vacío, sino completamente abarrotado de criaturas inmensas y gelatinosas que habían estado flotando justo detrás de ellos." }
+        ]
+      },
+      {
+        "tipo": "La Locura",
+        "secciones": [
+          { "id": 7501, "contenido": "El capitán del barco se arrancó los ojos con sus propias manos en medio de la cubierta barrida por la tormenta, afirmando entre carcajadas ahogadas que era la única forma de no ver los terribles colores no euclidianos que brillaban bajo las olas." },
+          { "id": 7502, "contenido": "Comprendió con una lucidez devastadora que la humanidad no era la cúspide de la evolución terrenal, sino apenas una pequeña e insignificante plaga temporal que crecía sobre la fina costra de la espalda de un monstruo adormecido." },
+          { "id": 7503, "contenido": "Se encerró en la sala de radio, escuchando estática durante semanas, hasta que logró discernir que el ruido blanco del universo no era radiación cósmica, sino los susurros hambrientos de dioses ciegos idiotas frotándose entre las dimensiones." }
+        ]
+      },
+      {
+        "tipo": "La Invocación",
+        "secciones": [
+          { "id": 7601, "contenido": "Los cultistas demacrados comenzaron a recitar en la playa gris un idioma sibilante y viscoso que no estaba hecho para cuerdas vocales humanas, provocando que el cielo nocturno comenzara a resquebrajarse como un huevo de cristal." },
+          { "id": 7602, "contenido": "El sonido gutural del cuerno de caracola de mar desgarró el silencio milenario del abismo oceánico; en respuesta, una inmensa masa de tentáculos bioluminiscentes y ojos vacíos comenzó a alzarse lentamente quebrando la superficie del agua negra." },
+          { "id": 7603, "contenido": "El líder de la secta se degolló a sí mismo sobre el tomo maldito, y su sangre, en lugar de empapar las páginas podridas, levitó en el aire formando las oscuras constelaciones prohibidas que abrirían el portal dimensional final." }
+        ]
+      },
+      {
+        "tipo": "El Giro",
+        "secciones": [
+          { "id": 7701, "contenido": "Con un terror que le congeló hasta el alma, descubrió que las criaturas primigenias no estaban intentando invadir desesperadamente la Tierra desde su exilio estelar, sino que en realidad estaban huyendo aterrorizadas hacia nosotros, escapando de algo aún peor." },
+          { "id": 7702, "contenido": "El ritual de sangre no despertó al monstruo letárgico bajo la montaña sagrada; descubrieron con desesperación que el ser inmenso jamás había estado dormido, simplemente los había estado observando pacientemente a lo largo de los siglos, analizando sus debilidades." },
+          { "id": 7703, "contenido": "El diario del erudito loco no era una advertencia escrita para el futuro, sino un guion meticulosamente redactado; la entidad cósmica ya había devorado la realidad, y todos simplemente estaban reviviendo el mismo bucle como ecos en su estómago digestivo infinito." }
+        ]
+      },
+      {
+        "tipo": "El Despertar",
+        "secciones": [
+          { "id": 7801, "contenido": "El cielo de acuarela se desgarró por completo con un sonido de tela rompiéndose, revelando que el firmamento estrellado era solo una fina membrana ocultando las inmensas fauces llenas de colmillos cósmicos que descendían a morder la Tierra." },
+          { "id": 7802, "contenido": "Detonó las cargas nucleares en la base del obelisco alienígena, sabiendo que el apocalíptico infierno atómico era infinitamente más misericordioso para la pobre raza humana que permitir el ascenso de los Señores Antiguos a la superficie terrestre." },
+          { "id": 7803, "contenido": "Sintió cómo su cuerpo físico se disolvía en polvo estelar al cruzar valientemente el umbral resplandeciente, sacrificando su minúscula y efímera cordura mortal para gritar una última advertencia sorda al vacío del cosmos indolente." }
+        ]
+      },
+      {
+        "tipo": "El Vacío",
+        "secciones": [
+          { "id": 7901, "contenido": "El mar tragó finalmente la ruinosa ciudad pesquera de Innsmouth sin dejar ningún rastro, borrando cualquier evidencia de la pesadilla; pero las gentes de los pueblos vecinos aseguran escuchar un coro macabro e insano bramando desde las profundidades cada solsticio de invierno." },
+          { "id": 7902, "contenido": "Aislado del mundo exterior en su celda acolchada del manicomio de Arkham, el único sobreviviente de la expedición se balancea compulsivamente abrazando sus rodillas, murmurando sin cesar a la oscuridad que las estrellas, allá arriba, al fin se han alineado correctamente." },
+          { "id": 7903, "contenido": "La Tierra siguió girando sola y en total silencio alrededor del sol moribundo, reducida a una esfera perfecta de roca estéril y océanos evaporados, habiendo sido purgada completamente de cualquier ridícula ilusión de importancia humana en el vasto teatro del universo ciego." }
         ]
       }
     ]
   }
 
-,
 
-    {
-      "categoria": "Romántico",
-      "tipos": [
-        {
-          "tipo": "Inicio",
-          "secciones": [
-            { "id": 600, "contenido": "La ciudad seguía su ritmo habitual, indiferente, hasta que dos caminos se cruzaron sin intención… y algo en el aire cambió imperceptiblemente." },
-            { "id": 601, "contenido": "En un café donde nadie se detenía demasiado, una mirada se sostuvo un segundo más de lo normal, suficiente para alterar el resto del día." },
-            { "id": 602, "contenido": "Entre hojas de otoño que caían sin apuro, un encuentro casual dejó una sensación difícil de explicar." },
-            { "id": 603, "contenido": "Una coincidencia improbable los puso en el mismo lugar, en el mismo instante, como si algo los hubiera empujado ahí." },
-            { "id": 604, "contenido": "No hubo nada extraordinario al principio… salvo esa extraña certeza de que ese momento importaba." }
-          ]
-        },
-        {
-          "tipo": "La Chispa",
-          "secciones": [
-            { "id": 700, "contenido": "La conversación comenzó sin intención de durar, pero ninguno encontró una razón para terminarla." },
-            { "id": 701, "contenido": "Una risa compartida rompió cualquier incomodidad, dejando espacio para algo más sincero." },
-            { "id": 702, "contenido": "El tiempo pasó demasiado rápido, como si alguien lo hubiera acortado deliberadamente." },
-            { "id": 703, "contenido": "Un gesto pequeño —casi insignificante— dejó una impresión que ninguno pudo ignorar." },
-            { "id": 704, "contenido": "Sin decirlo, ambos sintieron que algo había comenzado." }
-          ]
-        },
-        {
-          "tipo": "Desarrollo",
-          "secciones": [
-            { "id": 800, "contenido": "Los encuentros se volvieron frecuentes, y con ellos, una cercanía que crecía sin esfuerzo." },
-            { "id": 801, "contenido": "Compartieron historias que no solían contar, como si el otro fuera un lugar seguro." },
-            { "id": 802, "contenido": "Las conversaciones empezaron a llenar silencios que antes pesaban demasiado." },
-            { "id": 803, "contenido": "Cada despedida traía consigo la promesa implícita de un próximo encuentro." },
-            { "id": 804, "contenido": "Sin darse cuenta, comenzaron a ocupar un lugar importante en la vida del otro." }
-          ]
-        },
-        {
-          "tipo": "El Obstáculo",
-          "secciones": [
-            { "id": 900, "contenido": "Una decisión importante apareció de repente, amenazando con cambiarlo todo." },
-            { "id": 901, "contenido": "Un malentendido, pequeño pero persistente, comenzó a crear distancia." },
-            { "id": 902, "contenido": "El miedo a perder lo que tenían empezó a pesar más que la felicidad que compartían." },
-            { "id": 903, "contenido": "Circunstancias externas comenzaron a interferir, complicando lo que antes parecía simple." },
-            { "id": 904, "contenido": "El pasado de uno de ellos regresó, trayendo dudas que no eran fáciles de ignorar." }
-          ]
-        },
-        {
-          "tipo": "Clímax",
-          "secciones": [
-            { "id": 1000, "contenido": "En un momento donde todo parecía romperse, finalmente dijeron lo que habían estado evitando." },
-            { "id": 1001, "contenido": "El tiempo pareció detenerse mientras enfrentaban la verdad." },
-            { "id": 1002, "contenido": "La decisión que tomaran definiría lo que vendría después." },
-            { "id": 1003, "contenido": "Entre miedo y deseo, eligieron no seguir huyendo." },
-            { "id": 1004, "contenido": "Todo se redujo a un instante en el que el silencio decía más que las palabras." }
-          ]
-        },
-        {
-          "tipo": "Cierre",
-          "secciones": [
-            { "id": 1100, "contenido": "Al final, entendieron que algunas historias valen el riesgo." },
-            { "id": 1101, "contenido": "Nada fue perfecto, pero era real, y eso era suficiente." },
-            { "id": 1102, "contenido": "Lo que comenzó sin intención se convirtió en algo imposible de ignorar." },
-            { "id": 1103, "contenido": "Siguieron adelante, juntos, sin saber exactamente qué vendría después." },
-            { "id": 1104, "contenido": "Y aunque el futuro era incierto, por primera vez no parecía dar miedo." }
-          ]
-        }
-      ]
-    }
   ]
 }
